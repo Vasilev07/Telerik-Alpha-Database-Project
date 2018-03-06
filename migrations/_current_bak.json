@@ -1,0 +1,66 @@
+{
+    "tables": {
+        "author_book_exrevs": {
+            "tableName": "author_book_exrevs",
+            "schema": {
+                "id": {
+                    "allowNull": false,
+                    "primaryKey": true,
+                    "autoIncrement": true,
+                    "seqType": "Sequelize.INTEGER"
+                },
+                "authorId": {
+                    "seqType": "Sequelize.INTEGER"
+                },
+                "bookId": {
+                    "seqType": "Sequelize.INTEGER"
+                },
+                "createdAt": {
+                    "allowNull": false,
+                    "seqType": "Sequelize.DATE"
+                },
+                "updatedAt": {
+                    "allowNull": false,
+                    "seqType": "Sequelize.DATE"
+                }
+            },
+            "indexes": []
+        },
+        "Books": {
+            "tableName": "Books",
+            "schema": {
+                "id": {
+                    "allowNull": false,
+                    "primaryKey": true,
+                    "autoIncrement": true,
+                    "seqType": "Sequelize.INTEGER"
+                },
+                "Title": {
+                    "seqType": "Sequelize.STRING"
+                },
+                "Image": {
+                    "seqType": "Sequelize.STRING"
+                },
+                "Description": {
+                    "seqType": "Sequelize.TEXT"
+                },
+                "ISBN": {
+                    "seqType": "Sequelize.TEXT"
+                },
+                "Publishing": {
+                    "seqType": "Sequelize.STRING"
+                },
+                "createdAt": {
+                    "allowNull": false,
+                    "seqType": "Sequelize.DATE"
+                },
+                "updatedAt": {
+                    "allowNull": false,
+                    "seqType": "Sequelize.DATE"
+                }
+            },
+            "indexes": []
+        }
+    },
+    "revision": 2
+}
