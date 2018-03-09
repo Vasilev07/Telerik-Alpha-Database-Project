@@ -1,12 +1,13 @@
 'use strict';
 module.exports = (sequelize, DataTypes) => {
-  const authorCollection = sequelize.define('author_collection', {
-    author: {
+  const author = sequelize.define('author', {
+    authorName: {
       type: DataTypes.STRING,
+      unique: true,
     },
   }, {});
-  authorCollection.associate = (models) => {
+  author.associate = (models) => {
     // associations can be defined here
   };
-  return authorCollection;
+  return author;
 };

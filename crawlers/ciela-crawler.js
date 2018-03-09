@@ -10,10 +10,12 @@ const getBookInfo = async (bookUrl) => {
     // console.log(fullUrl);
     const dom = await JSDOM.fromURL(bookUrl);
     const $ = $init(dom.window);
-    const authorSelector = $('.leftInfo .productAttribute > a > span')
+    const authorSelector = $('.leftInfo .productAttribute')
+        .children(':first')
         .text()
         .replace(/\t?\n|\t/g, '');
-    const publishSelector = $('.leftInfo .productAttribute:last-child a span')
+    const publishSelector = $('.leftInfo .productAttribute')
+        .children(':last')
         .text()
         .replace(/\t?\n|\t/g, '');
     const imageSelector = $('.sp-image')
@@ -24,7 +26,7 @@ const getBookInfo = async (bookUrl) => {
         .text()
         .replace(/\t?\n|\t/g, '');
     const ISBN =
-    $('.productDetailedInformation .infoRow:contains("ISBN") .attributeValue')
+        $('.productDetailedInformation .infoRow:contains("ISBN") .attributeValue')
         .text();
     const bookInformation = {
         author: authorSelector,
@@ -33,7 +35,7 @@ const getBookInfo = async (bookUrl) => {
         description: descriptionSelector,
         ISBN: ISBN,
         publishing: publishSelector,
-
+        website: 'Ciela',
     };
     // infoSelector.forEach((element) => {
     //     const currentKey = element[0].text();
@@ -46,7 +48,6 @@ const getBookInfo = async (bookUrl) => {
     //         bookInformation.ISBN = currentValue;
     //     }
     // });
-    console.log(bookInformation);
     return bookInformation;
 };
 

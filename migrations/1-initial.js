@@ -5,22 +5,23 @@ var Sequelize = require('sequelize');
 /**
  * Actions summary:
  *
- * createTable "author_collections", deps: []
- * createTable "publishings", deps: []
+ * createTable "Books", deps: []
+ * createTable "Infos", deps: []
+ * createTable "informationHolder", deps: [Books, Infos]
  *
  **/
 
 var info = {
-    "revision": 3,
-    "name": "added-authordb-author-collection-publishing-collection",
-    "created": "2018-03-06T11:24:34.291Z",
+    "revision": 1,
+    "name": "initial",
+    "created": "2018-03-09T17:03:57.961Z",
     "comment": ""
 };
 
 var migrationCommands = [{
         fn: "createTable",
         params: [
-            "author_collections",
+            "Books",
             {
                 "id": {
                     "type": Sequelize.INTEGER,
@@ -28,7 +29,16 @@ var migrationCommands = [{
                     "primaryKey": true,
                     "allowNull": false
                 },
-                "author": {
+                "Title": {
+                    "type": Sequelize.STRING
+                },
+                "Image": {
+                    "type": Sequelize.STRING
+                },
+                "Description": {
+                    "type": Sequelize.TEXT
+                },
+                "ISBN": {
                     "type": Sequelize.STRING
                 },
                 "createdAt": {
@@ -46,7 +56,7 @@ var migrationCommands = [{
     {
         fn: "createTable",
         params: [
-            "publishings",
+            "Infos",
             {
                 "id": {
                     "type": Sequelize.INTEGER,
@@ -54,7 +64,10 @@ var migrationCommands = [{
                     "primaryKey": true,
                     "allowNull": false
                 },
-                "publishing": {
+                "info": {
+                    "type": Sequelize.STRING
+                },
+                "value": {
                     "type": Sequelize.STRING
                 },
                 "createdAt": {
@@ -64,6 +77,43 @@ var migrationCommands = [{
                 "updatedAt": {
                     "type": Sequelize.DATE,
                     "allowNull": false
+                }
+            },
+            {}
+        ]
+    },
+    {
+        fn: "createTable",
+        params: [
+            "informationHolder",
+            {
+                "createdAt": {
+                    "type": Sequelize.DATE,
+                    "allowNull": false
+                },
+                "updatedAt": {
+                    "type": Sequelize.DATE,
+                    "allowNull": false
+                },
+                "BookId": {
+                    "type": Sequelize.INTEGER,
+                    "onUpdate": "CASCADE",
+                    "onDelete": "CASCADE",
+                    "references": {
+                        "model": "Books",
+                        "key": "id"
+                    },
+                    "primaryKey": true
+                },
+                "InfoId": {
+                    "type": Sequelize.INTEGER,
+                    "onUpdate": "CASCADE",
+                    "onDelete": "CASCADE",
+                    "references": {
+                        "model": "Infos",
+                        "key": "id"
+                    },
+                    "primaryKey": true
                 }
             },
             {}

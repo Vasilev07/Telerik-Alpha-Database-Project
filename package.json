@@ -4,7 +4,9 @@
   "description": "telerik academy database project - web crawler and MariaDB",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "migrate": "./node_modules/.bin/sequelize db:migrate",
+    "add-migration": "node ./node_modules/sequelize-auto-migrations/bin/makemigration.js"
   },
   "repository": {
     "type": "git",

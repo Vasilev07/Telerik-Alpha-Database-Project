@@ -3,6 +3,7 @@ module.exports = (sequelize, DataTypes) => {
   const publishing = sequelize.define('publishing', {
     publishing: {
       type: DataTypes.STRING,
+      unique: true,
     },
   }, {});
   publishing.associate = (models) => {

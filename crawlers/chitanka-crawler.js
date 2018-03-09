@@ -50,6 +50,7 @@ const getBookInfo = async (bookUrl) => {
         description: descriptionSelector,
         ISBN: isbn,
         publishing: publishingInfo,
+        website: 'Chitanka',
     };
     return bookInformation;
 };

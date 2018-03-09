@@ -11,14 +11,39 @@ module.exports = (sequelize, DataTypes) => {
       type: DataTypes.TEXT,
     },
     ISBN: {
-      type: DataTypes.TEXT,
-    },
-    Publishing: {
       type: DataTypes.STRING,
     },
   }, {});
   Books.associate = (models) => {
     // associations can be defined here
+    const {
+      Info,
+    } = models;
+
+    Books.belongsToMany(Info, {
+      through: 'informationHolder',
+    });
+    Info.belongsToMany(Books, {
+      through: 'informationHolder',
+    });
+    // Books.belongsTo(author, {
+    //   foreignKey: {
+    //     allowNull: false,
+    //   },
+    //   onDelete: 'CASCADE',
+    // });
+    // Books.belongsTo(publishing, {
+    //   foreignKey: {
+    //     allowNull: false,
+    //   },
+    //   onDelete: 'CASCADE',
+    // });
+    // Books.belongsTo(website, {
+    //   foreignKey: {
+    //     allowNull: false,
+    //   },
+    //   onDelete: 'CASCADE',
+    // });
   };
   return Books;
 };
