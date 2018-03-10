@@ -40,35 +40,35 @@ const pushInfoToDatabase = async (books) => {
         },
     });
 
-    // const createdBook = Books.create({
-    //     Title: books.title,
-    //     Image: books.image,
-    //     Description: books.description,
-    //     ISBN: books.ISBN,
-    //     // authorId: authors[0].dataValues.id,
-    //     // publishingId: publishings[0].dataValues.id,
-    //     // websiteId: websites[0].dataValues.id,
-    // });
-    // createdBook.setInfo([authors[0].dataValues.id,
-    //  publishings[0].dataValues.id, websites[0].dataValues.id]);
-    await Books.create({
+    const createdBook = await Books.create({
         Title: books.title,
         Image: books.image,
         Description: books.description,
         ISBN: books.ISBN,
-        //     // authorId: authors[0].dataValues.id,
-        //     // publishingId: publishings[0].dataValues.id,
-        //     // websiteId: websites[0].dataValues.id,
+        // authorId: authors[0].dataValues.id,
+        // publishingId: publishings[0].dataValues.id,
+        // websiteId: websites[0].dataValues.id,
     });
-    Books.find({
-            where: {
-                Title: books.title,
-            },
-        })
-        .then((currentBook) => currentBook
-            .setInfos([authors[0].dataValues.id, publishings[0]
-                .dataValues.id, websites[0].dataValues.id,
-            ]));
+    // createdBook.setInfo([authors[0].dataValues.id,
+    //  publishings[0].dataValues.id, websites[0].dataValues.id]);
+    // await Books.create({
+    //     Title: books.title,
+    //     Image: books.image,
+    //     Description: books.description,
+    //     ISBN: books.ISBN,
+    //         // authorId: authors[0].dataValues.id,
+    //         // publishingId: publishings[0].dataValues.id,
+    //         // websiteId: websites[0].dataValues.id,
+    // });
+    // Books.find({
+    //         where: {
+    //             Title: books.title,
+    //         },
+    //     })
+    // .then((currentBook) => currentBook
+    createdBook.setInfos([authors[0].dataValues.id, publishings[0]
+        .dataValues.id, websites[0].dataValues.id,
+    ]);
 };
 
 module.exports = {

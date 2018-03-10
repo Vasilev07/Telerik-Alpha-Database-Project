@@ -7,7 +7,12 @@ module.exports = (sequelize, DataTypes) => {
     value: {
       type: DataTypes.STRING,
     },
-  }, {});
+  }, {
+    indexes: [{
+      unique: true,
+      fields: ['info', 'value'],
+    }],
+  });
   Info.associate = (models) => {
     // associations can be defined here
   };

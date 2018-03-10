@@ -24,10 +24,9 @@ const attr = '=';
 
 const bookSelector = 'span .productBoxTitle';
 const bookAttr = 'href';
-const stack = [];
-const run2 = async () => {
-    let getAllPagesUrls = await allPages(url, selector, attr);
-    getAllPagesUrls = getAllPagesUrls.splice(0, 2);
+let stack = [];
+const run = async () => {
+    const getAllPagesUrls = await allPages(url, selector, attr);
     let booksPages = await Promise.all(getAllPagesUrls
         .map((currentUrl) => getBooksUrl(currentUrl, bookSelector, bookAttr)));
 
@@ -36,7 +35,6 @@ const run2 = async () => {
     stack = stack.reduce((a, b) => a.concat(b), []);
     stack.forEach((book) => pushInfoToDatabase(book));
 };
-run2();
 module.exports = {
-    run2,
+    run,
 };

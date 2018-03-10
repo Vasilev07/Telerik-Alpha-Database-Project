@@ -8,13 +8,14 @@ var Sequelize = require('sequelize');
  * createTable "Books", deps: []
  * createTable "Infos", deps: []
  * createTable "informationHolder", deps: [Books, Infos]
+ * addIndex ["info","value"] to table "Infos"
  *
  **/
 
 var info = {
     "revision": 1,
     "name": "initial",
-    "created": "2018-03-09T17:03:57.961Z",
+    "created": "2018-03-09T17:46:37.340Z",
     "comment": ""
 };
 
@@ -117,6 +118,15 @@ var migrationCommands = [{
                 }
             },
             {}
+        ]
+    },
+    {
+        fn: "addIndex",
+        params: [
+            "Infos", ["info", "value"],
+            {
+                "indicesType": "UNIQUE"
+            }
         ]
     }
 ];

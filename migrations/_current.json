@@ -56,7 +56,18 @@
                     "seqType": "Sequelize.DATE"
                 }
             },
-            "indexes": []
+            "indexes": {
+                "838a8c76eebce38709e07549430e6ee0d533d6fc": {
+                    "unique": true,
+                    "fields": [
+                        "info",
+                        "value"
+                    ],
+                    "options": {
+                        "indicesType": "UNIQUE"
+                    }
+                }
+            }
         },
         "informationHolder": {
             "tableName": "informationHolder",

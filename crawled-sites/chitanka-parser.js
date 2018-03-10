@@ -35,7 +35,6 @@ const run2 = async () => {
     stack = stack.reduce((a, b) => a.concat(b), []);
     stack.forEach((book) => pushInfoToDatabase(book));
 };
-run2();
 module.exports = {
     run2,
 };
