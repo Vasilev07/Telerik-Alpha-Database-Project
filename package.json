@@ -6,7 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "migrate": "./node_modules/.bin/sequelize db:migrate",
-    "add-migration": "node ./node_modules/sequelize-auto-migrations/bin/makemigration.js"
+    "add-migration": "node ./node_modules/sequelize-auto-migrations/bin/makemigration.js",
+    "sort" : "node ./command/sort-authors.js > sorther-authors.txt",
+    "update": "node ./command/update-database.js",
+    "filter-by-title": "node ./command/filter-by-title.js > filter-by-title.txt",
+    "filter-by-author": "node ./command/filter-by-author.js > filter-by-author.txt"
   },
   "repository": {
     "type": "git",

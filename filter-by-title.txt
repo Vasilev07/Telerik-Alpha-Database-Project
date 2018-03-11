@@ -1,0 +1,40 @@
+{ Title: 'Хари Потър и затворникът от Азкабан',
+  Author: 'Джоан Роулинг',
+  Publishing: 'ХАРИ ПОТЪР И ЗАТВОРНИКЪТ ОТ АЗКАБАН. 2001. Изд. Егмонт България, София. Роман за юноши. Превод: Мариана МЕЛНИШКА [Harry Potter and Prisoner of Azkaban, by J. K. ROWLING (1999)]. Формат: 22 см. Страници: 367. Цена: 11.00 лв. ISBN: 954-446-557-Х.',
+  Website: 'Chitanka' }
+{ Title: 'Хари Потър и Орденът на феникса',
+  Author: 'Джоан Роулинг',
+  Publishing: 'ИК „Егмонт България“, 2003 г.',
+  Website: 'Chitanka' }
+{ Title: 'Хари Потър и даровете на смъртта',
+  Author: 'Джоан Роулинг',
+  Publishing: 'no publishing info',
+  Website: 'Chitanka' }
+{ Title: 'Хари Потър и Нечистокръвния принц',
+  Author: 'Джоан Роулинг',
+  Publishing: 'no publishing info',
+  Website: 'Chitanka' }
+{ Title: 'Хари Потър и стаята на тайните',
+  Author: 'Джоан Роулинг',
+  Publishing: 'no publishing info',
+  Website: 'Chitanka' }
+{ Title: 'Хари Потър и Прокълнатото дете – първа и втора част (специално предварително издание на сценария)',
+  Author: 'Дж. К. Роулинг',
+  Publishing: 'Егмонт',
+  Website: 'Ciela' }
+{ Title: 'Хари Потър и философският камък',
+  Author: 'Джоан Роулинг',
+  Publishing: 'no publishing info',
+  Website: 'Chitanka' }
+{ Title: 'Хари Потър и огненият бокал',
+  Author: 'Джоан Роулинг',
+  Publishing: 'no publishing info',
+  Website: 'Chitanka' }
+{ Title: 'Хари Потър и затворникът от Азкабан (илюстровано издание)',
+  Author: '',
+  Publishing: 'Егмонт',
+  Website: 'Ciela' }
+{ Title: 'Хари Потър и Стаята на тайните (илюстровано издание)',
+  Author: '',
+  Publishing: '',
+  Website: 'Ciela' }

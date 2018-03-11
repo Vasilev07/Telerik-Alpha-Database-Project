@@ -11,4 +11,6 @@ const bigRun = async () => {
     run2();
 };
 
-bigRun();
+module.exports = {
+    bigRun,
+};

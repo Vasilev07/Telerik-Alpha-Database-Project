@@ -69,9 +69,33 @@
                 }
             }
         },
-        "informationHolder": {
-            "tableName": "informationHolder",
+        "InformationHolders": {
+            "tableName": "InformationHolders",
             "schema": {
+                "BookId": {
+                    "primaryKey": true,
+                    "unique": "InformationHolders_InfoId_BookId_unique",
+                    "references": {
+                        "model": "Books",
+                        "key": "id"
+                    },
+                    "onDelete": "CASCADE",
+                    "onUpdate": "CASCADE",
+                    "allowNull": true,
+                    "seqType": "Sequelize.INTEGER"
+                },
+                "InfoId": {
+                    "primaryKey": true,
+                    "unique": "InformationHolders_InfoId_BookId_unique",
+                    "references": {
+                        "model": "Infos",
+                        "key": "id"
+                    },
+                    "onDelete": "CASCADE",
+                    "onUpdate": "CASCADE",
+                    "allowNull": true,
+                    "seqType": "Sequelize.INTEGER"
+                },
                 "createdAt": {
                     "allowNull": false,
                     "seqType": "Sequelize.DATE"
@@ -79,26 +103,6 @@
                 "updatedAt": {
                     "allowNull": false,
                     "seqType": "Sequelize.DATE"
-                },
-                "BookId": {
-                    "primaryKey": true,
-                    "references": {
-                        "model": "Books",
-                        "key": "id"
-                    },
-                    "onDelete": "CASCADE",
-                    "onUpdate": "CASCADE",
-                    "seqType": "Sequelize.INTEGER"
-                },
-                "InfoId": {
-                    "primaryKey": true,
-                    "references": {
-                        "model": "Infos",
-                        "key": "id"
-                    },
-                    "onDelete": "CASCADE",
-                    "onUpdate": "CASCADE",
-                    "seqType": "Sequelize.INTEGER"
                 }
             },
             "indexes": []

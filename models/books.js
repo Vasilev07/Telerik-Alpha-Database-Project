@@ -21,10 +21,10 @@ module.exports = (sequelize, DataTypes) => {
     } = models;
 
     Books.belongsToMany(Info, {
-      through: 'informationHolder',
+      through: 'InformationHolder',
     });
     Info.belongsToMany(Books, {
-      through: 'informationHolder',
+      through: 'InformationHolder',
     });
     // Books.belongsTo(author, {
     //   foreignKey: {
@@ -33,6 +33,7 @@ module.exports = (sequelize, DataTypes) => {
     //   onDelete: 'CASCADE',
     // });
     // Books.belongsTo(publishing, {
+
     //   foreignKey: {
     //     allowNull: false,
     //   },

@@ -7,15 +7,15 @@ var Sequelize = require('sequelize');
  *
  * createTable "Books", deps: []
  * createTable "Infos", deps: []
- * createTable "informationHolder", deps: [Books, Infos]
+ * createTable "InformationHolders", deps: [Books, Infos]
  * addIndex ["info","value"] to table "Infos"
  *
  **/
 
 var info = {
     "revision": 1,
-    "name": "initial",
-    "created": "2018-03-09T17:46:37.340Z",
+    "name": "noname",
+    "created": "2018-03-10T19:46:28.097Z",
     "comment": ""
 };
 
@@ -86,8 +86,32 @@ var migrationCommands = [{
     {
         fn: "createTable",
         params: [
-            "informationHolder",
+            "InformationHolders",
             {
+                "BookId": {
+                    "type": Sequelize.INTEGER,
+                    "allowNull": true,
+                    "onUpdate": "CASCADE",
+                    "onDelete": "CASCADE",
+                    "references": {
+                        "model": "Books",
+                        "key": "id"
+                    },
+                    "unique": "InformationHolders_InfoId_BookId_unique",
+                    "primaryKey": true
+                },
+                "InfoId": {
+                    "type": Sequelize.INTEGER,
+                    "allowNull": true,
+                    "onUpdate": "CASCADE",
+                    "onDelete": "CASCADE",
+                    "references": {
+                        "model": "Infos",
+                        "key": "id"
+                    },
+                    "unique": "InformationHolders_InfoId_BookId_unique",
+                    "primaryKey": true
+                },
                 "createdAt": {
                     "type": Sequelize.DATE,
                     "allowNull": false
@@ -95,26 +119,6 @@ var migrationCommands = [{
                 "updatedAt": {
                     "type": Sequelize.DATE,
                     "allowNull": false
-                },
-                "BookId": {
-                    "type": Sequelize.INTEGER,
-                    "onUpdate": "CASCADE",
-                    "onDelete": "CASCADE",
-                    "references": {
-                        "model": "Books",
-                        "key": "id"
-                    },
-                    "primaryKey": true
-                },
-                "InfoId": {
-                    "type": Sequelize.INTEGER,
-                    "onUpdate": "CASCADE",
-                    "onDelete": "CASCADE",
-                    "references": {
-                        "model": "Infos",
-                        "key": "id"
-                    },
-                    "primaryKey": true
                 }
             },
             {}
