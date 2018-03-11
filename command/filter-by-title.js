@@ -13,9 +13,6 @@ const getCharacteristicsByTitle = async (title) => {
             },
         },
     });
-    // const titleIdFromBooks = curentTitle[1].dataValues.id;
-    // const title1 = curentTitle[1].dataValues.Title;
-    // console.log(title1);
     curentTitle.map(async (titleIdFromBooks) => {
         const result = {};
         const getBookInfoId = await InformationHolder.findAll({
@@ -28,6 +25,9 @@ const getCharacteristicsByTitle = async (title) => {
             getInfoIdInMiddleTable.push(bookInfo.dataValues.InfoId);
         });
         result.Title = titleIdFromBooks.dataValues.Title;
+        result.Image = titleIdFromBooks.dataValues.Image;
+        result.ISBN = titleIdFromBooks.dataValues.ISBN;
+        // console.log(titleIdFromBooks);
         const info = await Info.findAll({
             where: {
                 id: getInfoIdInMiddleTable.map((value) => value),

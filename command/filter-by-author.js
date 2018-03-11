@@ -24,7 +24,7 @@ const getCharacteristicsByAuthor = async (author = 'Роулинг') => {
         getAuthorId.forEach((currentAuthorId) => {
             getInfoIdInMiddleTable.push(currentAuthorId.dataValues.BookId);
         });
-        // console.log(getInfoIdInMiddleTable);
+        // console.log(getAuthorId);
         result.Author = authorsFromInfos.dataValues.value;
         const books = await Promise.all(getInfoIdInMiddleTable
             .map(async (curr) => {
@@ -37,12 +37,11 @@ const getCharacteristicsByAuthor = async (author = 'Роулинг') => {
             }));
 
         books.forEach((element) => {
-            const value = element.dataValues.Title;
-            // const key = element.dataValues.title;
-            result.Title = value;
+            result.Title = element.dataValues.Title;
+            result.Image = element.dataValues.Image;
+            result.ISBN = element.dataValues.ISBN;
             console.log(result);
         });
     });
 };
 getCharacteristicsByAuthor(command);
-// console.log(command);
