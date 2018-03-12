@@ -1,0 +1,2244 @@
+{ Publishing: 'ИК „Бард“, 2004',
+  Title: 'Американски богове',
+  Image: 'chitanka.info/thumb/book-cover/06/1567.250.jpg',
+  ISBN: 'no ISBN' }
+{ Publishing: 'ИК „Бард“, 2004',
+  Title: 'Острият кинжал',
+  Image: 'chitanka.info/thumb/book-cover/07/1887.250.jpg',
+  ISBN: 'no ISBN' }
+{ Publishing: 'ИК „Бард“, София, 2011',
+  Title: 'Аз, вещицата',
+  Image: 'chitanka.info/thumb/book-cover/17/5939.250.jpg',
+  ISBN: 'ISBN: 978-954-655-204-4' }
+{ Publishing: 'ИК „Бард“, София, 2011',
+  Title: 'Дъщеря на Империята',
+  Image: 'chitanka.info/thumb/book-cover/19/6445.250.jpg',
+  ISBN: 'ISBN: 978-954-655-288-4' }
+{ Publishing: 'ИК „Бард“, София, 2011',
+  Title: 'Кръвта на богомолката',
+  Image: 'chitanka.info/thumb/book-cover/18/6340.250.jpg',
+  ISBN: 'ISBN: 978-954-655-194-8' }
+{ Publishing: 'ИК „Бард“, София, 2011',
+  Title: 'Слуга на Империята',
+  Image: 'chitanka.info/thumb/book-cover/19/6446.250.jpg',
+  ISBN: 'ISBN: 978-954-655-301-0' }
+{ Publishing: 'ИК „Бард“, София, 2011',
+  Title: 'Сплавта на закона',
+  Image: 'chitanka.info/thumb/book-cover/1a/6769.250.jpg',
+  ISBN: 'ISBN: 978–954–655–262–4' }
+{ Publishing: '© ИК „БАРД“ ООД, 2008',
+  Title: 'Битката за Ориса',
+  Image: 'chitanka.info/thumb/book-cover/12/4794.250.jpg',
+  ISBN: 'ISBN 978–954–585–965–6' }
+{ Publishing: 'ИК „Бард“, 2010',
+  Title: 'Буря се надига',
+  Image: 'chitanka.info/thumb/book-cover/0c/3254.250.jpg',
+  ISBN: 'ISBN 978-954-655-108-5' }
+{ Publishing: 'ИК „Бард“ ООД, 2009 г.',
+  Title: 'В царството на Мрачния',
+  Image: 'chitanka.info/thumb/book-cover/10/4128.250.jpg',
+  ISBN: 'ISBN: 978–954–655–070–5' }
+{ Publishing: 'ИК „Бард“ ООД, 2009 г.',
+  Title: 'Гневът на демонския крал\nПарчета скършена корона',
+  Image: 'chitanka.info/thumb/book-cover/0d/3566.250.jpg',
+  ISBN: 'ISBN: 954-585-355-7' }
+{ Publishing: 'ИК „Бард“ ООД, 2009 г.',
+  Title: 'Дан на Хрътките',
+  Image: 'chitanka.info/thumb/book-cover/0f/4018.250.jpg',
+  ISBN: 'ISBN: 978-954-655-011-8' }
+{ Publishing: 'ИК „Бард“ ООД, 2009 г.',
+  Title: 'Полетът на Нощните ястреби',
+  Image: 'chitanka.info/thumb/book-cover/10/4127.250.jpg',
+  ISBN: 'ISBN: 978–954–655–048–4' }
+{ Publishing: 'ВЕЛИКИЯТ ЛОВ. 1998. Изд. Бард, София. Серия Колелото на времето, No.2. Превод: [от англ.] Валерий РУСИНОВ [Wheel of Time: The Great Hunt / Robert JORDAN]. Формат: 167×237 мм. (24 см.). Страници: 640. Цена: 14.99 лв. ISBN: 954-585-217-6.',
+  Title: 'Великият лов',
+  Image: 'chitanka.info/thumb/book-cover/04/1140.250.jpg',
+  ISBN: 'ВЕЛИКИЯТ ЛОВ. 1998. Изд. Бард, София. Серия Колелото на времето, No.2. Превод: [от англ.] Валерий РУСИНОВ [Wheel of Time: The Great Hunt / Robert JORDAN]. Формат: 167×237 мм. (24 см.). Страници: 640. Цена: 14.99 лв. ISBN: 954-585-217-6.' }
+{ Publishing: 'ИК „Бард“, 2002',
+  Title: 'Вълчето братство',
+  Image: 'chitanka.info/thumb/book-cover/0a/2601.250.jpg',
+  ISBN: 'ISBN 954–585–404–9' }
+{ Publishing: 'ИК „Бард“, 2002',
+  Title: 'Вихър от мечове',
+  Image: 'chitanka.info/thumb/book-cover/07/1810.250.jpg',
+  ISBN: 'no ISBN' }
+{ Publishing: 'ИК „Бард“ ООД, 2008 г.',
+  Title: 'Вихърът на Жътваря',
+  Image: 'chitanka.info/thumb/book-cover/0e/3613.250.jpg',
+  ISBN: 'ISBN: 978–954–585–932–8' }
+{ Publishing: 'ИК „Бард“, София, 2003',
+  Title: 'Влад Талтош',
+  Image: 'chitanka.info/thumb/book-cover/02/612.250.jpg',
+  ISBN: 'ISBN: 954-585-505-3' }
+{ Publishing: 'ИК „Бард“, София, 2003',
+  Title: 'Влад Талтош',
+  Image: 'chitanka.info/thumb/book-cover/02/613.250.jpg',
+  ISBN: 'ISBN: 954-585-513-4' }
+{ Publishing: 'ИК „Бард“, София, 2003',
+  Title: 'Крондор',
+  Image: 'chitanka.info/thumb/book-cover/02/622.250.jpg',
+  ISBN: 'ISBN: 954-585-482-0' }
+{ Publishing: 'Компютърна обработка: ИК „БАРД“ ООД Анна Балева',
+  Title: 'Героят на времето',
+  Image: 'chitanka.info/thumb/book-cover/11/4432.250.jpg',
+  ISBN: 'ISBN 978-954-665-186-3' }
+{ Publishing: 'Компютърна обработка: ИК „БАРД“ ООД Анна Балева',
+  Title: 'Кладенецът на възнесението',
+  Image: 'chitanka.info/thumb/book-cover/11/4429.250.jpg',
+  ISBN: 'ISBN 978-954-655-146-7' }
+{ Publishing: 'ИК Бард, София, 2011',
+  Title: 'Господарка на Империята',
+  Image: 'chitanka.info/thumb/book-cover/19/6447.250.jpg',
+  ISBN: 'ISBN: 978-954-655-324-9' }
+{ Publishing: 'ИК „Бард“, София, 2001',
+  Title: 'Властелинът на пръстените',
+  Image: 'chitanka.info/thumb/book-cover/16/5807.250.jpg',
+  ISBN: 'ISBN: 954-585-066-3' }
+{ Publishing: 'ИК „Бард“, София, 2001',
+  Title: 'Грешникът',
+  Image: 'chitanka.info/thumb/book-cover/09/2433.250.jpg',
+  ISBN: 'ISBN 954-585-304-2' }
+{ Publishing: 'ИК „Бард“, София, 2007',
+  Title: 'Децата на Хурин',
+  Image: 'chitanka.info/thumb/book-cover/09/2523.250.jpg',
+  ISBN: 'ISBN 978-954-585-831-4' }
+{ Publishing: 'ИК „Бард“, София, 2010',
+  Title: 'Лявата ръка на Бога',
+  Image: 'chitanka.info/thumb/book-cover/17/5957.250.jpg',
+  ISBN: 'ISBN: 978-954-655-174-0' }
+{ Publishing: 'ИК „Бард“, София, 2010',
+  Title: 'Империя в черно и златно',
+  Image: 'chitanka.info/thumb/book-cover/18/6338.250.jpg',
+  ISBN: 'ISBN: 978-954-655-117-7' }
+{ Publishing: 'ИК „Бард“, София, 2010',
+  Title: 'Разединени равнини',
+  Image: 'chitanka.info/thumb/book-cover/18/6339.250.jpg',
+  ISBN: 'ISBN: 978-954-655-166-5' }
+{ Publishing: 'Компютърна обработка ИК „Бард“ ООД Линче Шопова',
+  Title: 'Камъкът на раздялата',
+  Image: 'chitanka.info/thumb/book-cover/1b/6960.250.jpg',
+  ISBN: 'ISBN: 954-585-536-3' }
+{ Publishing: 'ИК „Бард“, София, 2004',
+  Title: 'Кехлибареният далекоглед',
+  Image: 'chitanka.info/thumb/book-cover/07/1896.250.jpg',
+  ISBN: 'no ISBN' }
+{ Publishing: '© ИК „Бард“, 1996',
+  Title: 'Конан наемника',
+  Image: 'chitanka.info/thumb/book-cover/13/5003.250.jpg',
+  ISBN: 'no ISBN' }
+{ Publishing: '© ИК „Бард“, 1996',
+  Title: 'Съкровището на Питон',
+  Image: 'chitanka.info/thumb/book-cover/14/5229.250.jpg',
+  ISBN: 'no ISBN' }
+{ Publishing: 'ИК „Бард“, 2007',
+  Title: 'Дарби\nГласове',
+  Image: 'chitanka.info/thumb/book-cover/02/619.250.jpg',
+  ISBN: 'ISBN 978-954-585-848-2' }
+{ Publishing: 'ИК „Бард“, 2007',
+  Title: 'Звезден прах',
+  Image: 'chitanka.info/thumb/book-cover/07/1861.250.jpg',
+  ISBN: 'no ISBN' }
+{ Publishing: 'ИК „Бард“, 2007',
+  Title: 'Крадеца на зората',
+  Image: 'chitanka.info/thumb/book-cover/07/1829.250.jpg',
+  ISBN: 'no ISBN' }
+{ Publishing: 'ИК „Бард“, 2007',
+  Title: 'Мрак по пладне',
+  Image: 'chitanka.info/thumb/book-cover/07/1877.250.jpg',
+  ISBN: 'no ISBN' }
+{ Publishing: 'ИК „Бард“ ООД, София, 2012',
+  Title: 'Кралска кръв',
+  Image: 'chitanka.info/thumb/book-cover/1b/6995.250.jpg',
+  ISBN: 'ISBN: 978-954-655-352-2' }
+{ Publishing: 'Издател: „Амбър“ — ИК „БАРД“',
+  Title: 'Кралска поръчка',
+  Image: 'chitanka.info/thumb/book-cover/0e/3811.250.jpg',
+  ISBN: 'ISBN 954-585-260-7' }
+{ Publishing: 'Издател: „Амбър“ — ИК „БАРД“',
+  Title: 'Тронът',
+  Image: 'chitanka.info/thumb/book-cover/0f/3860.250.jpg',
+  ISBN: 'ISBN 954-585-276-3' }
+{ Publishing: 'ИК „Бард“ ООД, 2005 г.',
+  Title: 'Кралят-маг',
+  Image: 'chitanka.info/thumb/book-cover/0f/3944.250.jpg',
+  ISBN: 'ISBN: 954-585-600-9' }
+{ Publishing: 'ИК „Бард“ ООД, 2005 г.',
+  Title: 'Кралят-демон',
+  Image: 'chitanka.info/thumb/book-cover/0f/3945.250.jpg',
+  ISBN: 'ISBN: 954-585-610-6' }
+{ Publishing: 'ИК „Бард“ ООД, 2005 г.',
+  Title: 'Кралят-воин',
+  Image: 'chitanka.info/thumb/book-cover/0f/3943.250.jpg',
+  ISBN: 'ISBN: 954-585-618-1' }
+{ Publishing: 'ИК „Бард“ ООД, 2005 г.',
+  Title: 'Свещеният крал',
+  Image: 'chitanka.info/thumb/book-cover/05/1385.250.jpg',
+  ISBN: 'ISBN: 954-585-664-5' }
+{ Publishing: 'ИК „БАРД“ ООД, 2002',
+  Title: 'Лъвовете на Ал-Расан',
+  Image: 'chitanka.info/thumb/book-cover/06/1785.250.jpg',
+  ISBN: 'ISBN 954-585-339-5' }
+{ Publishing: 'ИК „Бард“ ООД, 2007 г.',
+  Title: 'Ловци на кости',
+  Image: 'chitanka.info/thumb/book-cover/0d/3563.250.jpg',
+  ISBN: 'ISBN: 978-954-585-792-8' }
+{ Publishing: 'ИК „Бард“ ООД, 2007 г.',
+  Title: 'Мастилено сърце',
+  Image: 'chitanka.info/thumb/book-cover/0e/3786.250.jpg',
+  ISBN: 'ISBN: 978-954-585-800-0' }
+{ Publishing: 'ИК „Бард“, София, 1995',
+  Title: 'Мечът на зората\nРуническият жезъл',
+  Image: 'chitanka.info/thumb/book-cover/01/335.250.jpg',
+  ISBN: 'no ISBN' }
+{ Publishing: 'ИК „Бард“, 2008',
+  Title: 'Завръщането на изгнаника',
+  Image: 'chitanka.info/thumb/book-cover/0b/3020.250.jpg',
+  ISBN: 'ISBN 978-954-585-918-2' }
+{ Publishing: 'ИК „Бард“, 2008',
+  Title: 'Наследство',
+  Image: 'chitanka.info/thumb/book-cover/09/2354.250.jpg',
+  ISBN: 'ISBN: 978–954–585–957–1' }
+{ Publishing: 'ИК „Бард“, 2008',
+  Title: 'Омайване',
+  Image: 'chitanka.info/thumb/book-cover/09/2353.250.jpg',
+  ISBN: 'ISBN: 978–954–585–938–0' }
+{ Publishing: 'ИК „Бард“, 2008',
+  Title: 'Сили',
+  Image: 'chitanka.info/thumb/book-cover/0c/3095.250.jpg',
+  ISBN: 'ISBN 978-954-585-867-3' }
+{ Publishing: 'ИК „Бард“, София, 2012',
+  Title: 'Обладателят — този, който взема',
+  Image: 'chitanka.info/thumb/book-cover/1a/6780.250.jpg',
+  ISBN: 'ISBN: 978-954-655-305-8' }
+{ Publishing: 'ИК „Бард“, София, 2012',
+  Title: 'Петата погибел',
+  Image: 'chitanka.info/thumb/book-cover/1a/6789.250.jpg',
+  ISBN: 'ISBN: 978-954-655-348-5' }
+{ Publishing: 'ИК „Бард“, София, 2012',
+  Title: 'Поглед в мрака',
+  Image: 'chitanka.info/thumb/book-cover/1c/7404.250.jpg',
+  ISBN: 'ISBN: 978-954-655-295-2' }
+{ Publishing: 'ИК „Бард“, София, 2012',
+  Title: 'Пътят на дракона',
+  Image: 'chitanka.info/thumb/book-cover/1a/6893.250.jpg',
+  ISBN: 'ISBN: 978-954-655-345-4' }
+{ Publishing: 'ИК „Бард“, 2005',
+  Title: 'Дом на вериги',
+  Image: 'chitanka.info/thumb/book-cover/0c/3153.250.jpg',
+  ISBN: 'ISBN: 954–585–638–6' }
+{ Publishing: 'ИК „Бард“, 2005',
+  Title: 'Орки',
+  Image: 'chitanka.info/thumb/book-cover/0c/3269.250.jpg',
+  ISBN: 'ISBN 954-585-673-4' }
+{ Publishing: 'ИК „Бард“, 2005',
+  Title: 'Спомени от лед',
+  Image: 'chitanka.info/thumb/book-cover/0c/3115.250.jpg',
+  ISBN: 'ISBN: 978–954–584–035–7' }
+{ Publishing: 'ИК „Бард“, 1994 г.',
+  Title: 'Последният сребърник',
+  Image: 'chitanka.info/thumb/book-cover/06/1758.250.jpg',
+  ISBN: 'no ISBN' }
+{ Publishing: 'ИК „Бард“ ООД, 2001 г.',
+  Title: 'Призрачният крал\nПоследният Меч на Силата',
+  Image: 'chitanka.info/thumb/book-cover/11/4500.250.jpg',
+  ISBN: 'ISBN: 954-585-209-7' }
+{ Publishing: '„Амбър“ (ИК „Бард“), 2002',
+  Title: 'Траксас',
+  Image: 'chitanka.info/thumb/book-cover/02/607.250.jpg',
+  ISBN: 'ISBN: 954-585-312-3' }
+{ Publishing: 'ИК „Бард“, 1993',
+  Title: 'Уилоу',
+  Image: 'chitanka.info/thumb/book-cover/07/1905.250.jpg',
+  ISBN: 'no ISBN' }
+{ Publishing: 'ИК „Бард“, София, 2005',
+  Title: 'Влад Талтош',
+  Image: 'chitanka.info/thumb/book-cover/02/614.250.jpg',
+  ISBN: 'ISBN: 954-585-590-8' }
+{ Publishing: 'ИК „Бард“ ООД, 2010 г.',
+  Title: 'Гневът на Лудия бог',
+  Image: 'chitanka.info/thumb/book-cover/11/4433.250.jpg',
+  ISBN: 'ISBN: 978–954–655–102–3' }
+{ Publishing: 'ИК „Бард“ ООД, 2010 г.',
+  Title: 'Орки: Кръвна вражда',
+  Image: 'chitanka.info/thumb/book-cover/0f/4010.250.jpg',
+  ISBN: 'ISBN: 978-954-655-091-0' }
+{ Publishing: 'ИК „Бард“ ООД, 2010 г.',
+  Title: 'Прах от мечти',
+  Image: 'chitanka.info/thumb/book-cover/13/4894.250.jpg',
+  ISBN: 'ISBN: 978–954–655–153–5' }
+{ Publishing: 'ИК „БАРД“, 1999',
+  Title: 'Господарят на хаоса',
+  Image: 'chitanka.info/thumb/book-cover/06/1760.250.jpg',
+  ISBN: 'ISBN: 954-585-034-5' }
+{ Publishing: 'ИК „БАРД“, 1999',
+  Title: 'Небесният огън',
+  Image: 'chitanka.info/thumb/book-cover/06/1680.250.jpg',
+  ISBN: 'ISBN: 954-585-005-1' }
+{ Publishing: 'ИК „Бард“, 1995',
+  Title: 'Далечно царство',
+  Image: 'chitanka.info/thumb/book-cover/07/1860.250.jpg',
+  ISBN: 'no ISBN' }
+{ Publishing: 'ИК „Бард“ ООД, 2002 г.',
+  Title: 'Даровете всечовешки',
+  Image: 'chitanka.info/thumb/book-cover/1e/7771.250.jpg',
+  ISBN: 'no ISBN' }
+{ Publishing: 'ИК „Бард“ ООД, 2004',
+  Title: 'Дверите на Скръбния дом',
+  Image: 'chitanka.info/thumb/book-cover/0c/3288.250.jpg',
+  ISBN: 'ISBN: 954585' }
+{ Publishing: '© ИК „Бард“, 1994',
+  Title: 'Деветте принца на Амбър\nОръжията на Авалон',
+  Image: 'chitanka.info/thumb/book-cover/02/642.250.jpg',
+  ISBN: 'no ISBN' }
+{ Publishing: '© ИК „Бард“, 1994',
+  Title: 'Знакът на еднорога\nРъката на Оберон',
+  Image: 'chitanka.info/thumb/book-cover/02/643.250.jpg',
+  ISBN: 'no ISBN' }
+{ Publishing: '© ИК „Бард“, 1994',
+  Title: 'Царството на Хаоса',
+  Image: 'chitanka.info/thumb/book-cover/04/1152.250.jpg',
+  ISBN: 'no ISBN' }
+{ Publishing: 'ИК „Бард“ ООД, 2012 г.',
+  Title: 'Елантрис',
+  Image: 'chitanka.info/thumb/book-cover/1a/6770.250.jpg',
+  ISBN: 'ISBN: 978-954-655-310-2' }
+{ Publishing: '© ИК „БАРД“ ООД, 2002',
+  Title: 'Изкуплението на Алтал',
+  Image: 'chitanka.info/thumb/book-cover/05/1466.250.jpg',
+  ISBN: 'ISBN 954-585-316-6 www.bard.bg' }
+{ Publishing: '© ИК „Бард“, 1995',
+  Title: 'Козовете на съдбата',
+  Image: 'chitanka.info/thumb/book-cover/04/1153.250.jpg',
+  ISBN: 'no ISBN' }
+{ Publishing: '© ИК „Бард“, 1995',
+  Title: 'Принц на Хаоса',
+  Image: 'chitanka.info/thumb/book-cover/04/1155.250.jpg',
+  ISBN: 'no ISBN' }
+{ Publishing: 'ИК „Бард“',
+  Title: 'Корона от мечове',
+  Image: 'chitanka.info/thumb/book-cover/06/1579.250.jpg',
+  ISBN: 'ISBN: 954-585-063-9' }
+{ Publishing: 'ИК „Бард“',
+  Title: 'Последната империя',
+  Image: 'chitanka.info/thumb/book-cover/0d/3421.250.jpg',
+  ISBN: 'no ISBN' }
+{ Publishing: 'ИК „Бард“ ООД, 2000 г.',
+  Title: 'Кралският корсар',
+  Image: 'chitanka.info/thumb/book-cover/0d/3515.250.jpg',
+  ISBN: 'ISBN: 954–585–154–6' }
+{ Publishing: 'ИК „Бард“, 2009 г.',
+  Title: 'Кралицата на мрака\nВъзходът на търговеца принц',
+  Image: 'chitanka.info/thumb/book-cover/0d/3565.250.jpg',
+  ISBN: 'ISBN: 954-585-344-1' }
+{ Publishing: 'Компютърна обработка: Линче Шопова, ИК „Бард“',
+  Title: 'Кръстопътища по здрач',
+  Image: 'chitanka.info/thumb/book-cover/08/2197.250.jpg',
+  ISBN: 'no ISBN' }
+{ Publishing: 'Компютърна обработка: Линче Шопова, ИК „Бард“',
+  Title: 'Сърцето на зимата',
+  Image: 'chitanka.info/thumb/book-cover/08/2160.250.jpg',
+  ISBN: 'no ISBN' }
+{ Publishing: 'ИК „Бард“, София, 2006',
+  Title: 'Легенди за Войната на разлома',
+  Image: 'chitanka.info/thumb/book-cover/02/623.250.jpg',
+  ISBN: 'ISBN 954-585-729-3' }
+{ Publishing: 'ИК „Бард“, 2003',
+  Title: 'Леговище от кости',
+  Image: 'chitanka.info/thumb/book-cover/0a/2603.250.jpg',
+  ISBN: 'ISBN 954-585-471-5' }
+{ Publishing: 'ИК „Бард“, 2003',
+  Title: 'Родена магьосница',
+  Image: 'chitanka.info/thumb/book-cover/0a/2602.250.jpg',
+  ISBN: 'ISBN 954-585-415-4' }
+{ Publishing: 'Компютърна обработка: Десислава Господинова, ИК „Бард“',
+  Title: 'Лисичи крал',
+  Image: 'chitanka.info/thumb/book-cover/08/2098.250.jpg',
+  ISBN: 'ISBN 978-954-585-897-0' }
+{ Publishing: 'Издател: ИК „БАРД“, София, 2009',
+  Title: 'Лорд Златен',
+  Image: 'chitanka.info/thumb/book-cover/0f/3924.250.jpg',
+  ISBN: 'ISBN 978-954-585-993-9' }
+{ Publishing: 'ИК „Бард“ ООД, 2004 г.',
+  Title: 'Лунните градини',
+  Image: 'chitanka.info/thumb/book-cover/0d/3436.250.jpg',
+  ISBN: 'ISBN: 954585' }
+{ Publishing: 'ИК „Бард“ ООД, 2004 г.',
+  Title: 'Рицарят на Шалион',
+  Image: 'chitanka.info/thumb/book-cover/04/1231.250.jpg',
+  ISBN: 'ISBN: 954-585-557-6' }
+{ Publishing: 'Издател: ИК „БАРД“ ООД',
+  Title: 'Мисията на шута',
+  Image: 'chitanka.info/thumb/book-cover/0f/3914.250.jpg',
+  ISBN: 'ISBN 978-954-585-980-9' }
+{ Publishing: 'Компютърна обработка: Силвия Николова, ИК „Бард“',
+  Title: 'Нокът на сребърния ястреб',
+  Image: 'chitanka.info/thumb/book-cover/08/2090.250.jpg',
+  ISBN: 'ISBN 978-954-585-888-8' }
+{ Publishing: 'ИК „Бард“, 2006',
+  Title: 'Нож от блянове',
+  Image: 'chitanka.info/thumb/book-cover/06/1580.250.jpg',
+  ISBN: 'no ISBN' }
+{ Publishing: 'ИК „Бард“ ООД, 2011 г.',
+  Title: 'Отмъщението на Монца',
+  Image: 'chitanka.info/thumb/book-cover/13/4917.250.jpg',
+  ISBN: 'ISBN: 978-954-655-211-2' }
+{ Publishing: 'ИК „Бард“ ООД, 2011 г.',
+  Title: 'Сакатият бог',
+  Image: 'chitanka.info/thumb/book-cover/15/5577.250.jpg',
+  ISBN: 'ISBN: 978-954-655-249-5' }
+{ Publishing: 'ИК „Бард“ ООД, 2011 г.',
+  Title: 'Танц с дракони',
+  Image: 'chitanka.info/thumb/book-cover/15/5576.250.jpg',
+  ISBN: 'ISBN: 978-954-655-265-5' }
+{ Publishing: 'ИК „Бард“ ООД, 2006',
+  Title: 'Пир за врани',
+  Image: 'chitanka.info/thumb/book-cover/05/1520.250.jpg',
+  ISBN: 'no ISBN' }
+{ Publishing: 'ИК „Бард“, 2009',
+  Title: 'Преобразяване',
+  Image: 'chitanka.info/thumb/book-cover/0a/2614.250.jpg',
+  ISBN: 'ISBN: 978–954–655–002–6' }
+{ Publishing: 'ИК „Бард“, 2009',
+  Title: 'Хоризонти',
+  Image: 'chitanka.info/thumb/book-cover/0b/3043.250.jpg',
+  ISBN: 'ISBN: 978–954–655–059–0' }
+{ Publishing: 'ИК „Бард“ ООД',
+  Title: 'Прероденият дракон',
+  Image: 'chitanka.info/thumb/book-cover/06/1546.250.jpg',
+  ISBN: 'no ISBN' }
+{ Publishing: 'ИК „Бард“, София,',
+  Title: 'Престолът от драконова кост',
+  Image: 'chitanka.info/thumb/book-cover/1b/6959.250.jpg',
+  ISBN: 'ISBN: 954-585-524-X' }
+{ Publishing: '© ИК „Бард“ ООД, 2003 г.',
+  Title: 'Приказки от Землемория\nДругият вятър',
+  Image: 'chitanka.info/thumb/book-cover/06/1598.250.jpg',
+  ISBN: 'no ISBN' }
+{ Publishing: 'ИК „Бард“, 2000 г.',
+  Title: 'Принц на кръвта',
+  Image: 'chitanka.info/thumb/book-cover/0d/3509.250.jpg',
+  ISBN: 'ISBN: 954–585–154–6' }
+{ Publishing: 'ИК „Бард“ ООД, 2003 г.',
+  Title: 'Проклятието на Шалион',
+  Image: 'chitanka.info/thumb/book-cover/04/1230.250.jpg',
+  ISBN: 'ISBN: 954-585-485-5' }
+{ Publishing: '© ИК „БАРД“ ООД, 2007',
+  Title: 'Пътуване към Сарантион',
+  Image: 'chitanka.info/thumb/book-cover/06/1592.250.jpg',
+  ISBN: 'ISBN 978-954-585-753-9' }
+{ Publishing: 'ИК „БАРД“ ООД, 2004, ISBN 954-585-530-4',
+  Title: 'Северно сияние',
+  Image: 'chitanka.info/thumb/book-cover/05/1491.250.jpg',
+  ISBN: 'ИК „БАРД“ ООД, 2004, ISBN 954-585-530-4' }
+{ Publishing: 'ИК „Бард“ ООД, 1999',
+  Title: 'Силата на сянката',
+  Image: 'chitanka.info/thumb/book-cover/06/1634.250.jpg',
+  ISBN: 'no ISBN' }
+{ Publishing: 'ИК „Бард“ ООД, 1999',
+  Title: 'Хобит',
+  Image: 'chitanka.info/thumb/book-cover/0d/3435.250.jpg',
+  ISBN: 'ISBN 954–585 016–7' }
+{ Publishing: 'ИК „Бард“, 2000',
+  Title: 'Сребротрън\nМрак над Сетанон',
+  Image: 'chitanka.info/thumb/book-cover/02/603.250.jpg',
+  ISBN: 'ISBN 954–585–148–1' }
+{ Publishing: 'ИК „Бард“, София, 2011 г.',
+  Title: 'Среднощни кули',
+  Image: 'chitanka.info/thumb/book-cover/1a/6771.250.jpg',
+  ISBN: 'ISBN: 978-954-655-218-1' }
+{ Publishing: 'ИК „Бард“, 2006 г.',
+  Title: 'Среднощни приливи',
+  Image: 'chitanka.info/thumb/book-cover/0c/3175.250.jpg',
+  ISBN: 'ISBN: 954585' }
+{ Publishing: 'ИК „Бард“ ООД, София 1124, 2009',
+  Title: 'Съдбата на Шута',
+  Image: 'chitanka.info/thumb/book-cover/10/4096.250.jpg',
+  ISBN: 'ISBN 978-954-655-019-4' }
+{ Publishing: '© ИК „Бард“ ООД, 1996',
+  Title: 'Царството на злото',
+  Image: 'chitanka.info/thumb/book-cover/06/1616.250.jpg',
+  ISBN: 'no ISBN' }
+{ Publishing: 'Лий Бардуго',
+  Title: 'Гриша кн. 3: Падение и подем',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_631_3.jpg',
+  ISBN: '9789542712947' }
+{ Publishing: 'Бард',
+  Title: 'Библиотекарите - книга 1: Вълшебната лампа',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/b/i/bibliotekarite-1-vylshebnata-lampa-bard-9789546558152_1.jpg',
+  ISBN: '9789546558152' }
+{ Publishing: 'Бард',
+  Title: 'Пътешествията на Тъф',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/p/y/pyteshestviata-na-tyff-bard-george-rr-martin-9789546558169_1.jpg',
+  ISBN: '9789546558169' }
+{ Publishing: 'Бард',
+  Title: 'Смъртта и светлината',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_173_1.jpg',
+  ISBN: '9789546558039' }
+{ Publishing: 'Бард',
+  Title: 'Спящите красавици - меки корици',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/s/p/spjashtite-krasavici-stephen-king-owen-king-bard-9789546558237.jpg',
+  ISBN: '9789546558237' }
+{ Publishing: 'Бард',
+  Title: 'Берен и Лутиен',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_17_1.png',
+  ISBN: '9789546558046' }
+{ Publishing: 'Бард',
+  Title: ' Да опитомиш сокол',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/d/a/da_opitomish_sokol.jpg',
+  ISBN: '9789546558084' }
+{ Publishing: 'Бард',
+  Title: 'Съдбата на Убиеца книга 3',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_69_1.jpg',
+  ISBN: '9789546558022' }
+{ Publishing: 'Бард',
+  Title: 'То - част първа',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/t/o/to-scast_pyrva_stivun_king_bard.jpg',
+  ISBN: '9789545841712' }
+{ Publishing: 'Бард',
+  Title: 'То - част втора',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/t/o/to-chast_vtora_stivun_king_bard.jpg',
+  ISBN: '9789545841729' }
+{ Publishing: 'Бард',
+  Title: 'Дума Ки',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/d/u/duma_ki_stivyn_king_stephen_king_bard_ciela.jpg',
+  ISBN: '9789546557841' }
+{ Publishing: 'Бард',
+  Title: 'Всички наши грешни дни',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_61_16.jpg',
+  ISBN: '9789546557810' }
+{ Publishing: 'Бард',
+  Title: 'Контакт',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_59_2.jpg',
+  ISBN: '9789546557704' }
+{ Publishing: 'Бард',
+  Title: 'Хилядният етаж',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_54_37.jpg',
+  ISBN: '9789546557667' }
+{ Publishing: 'Бард',
+  Title: 'Нашествие',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_53_129.jpg',
+  ISBN: '9789546553140' }
+{ Publishing: 'Бард',
+  Title: 'Изтребление',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_53_128.jpg',
+  ISBN: '9789546557605' }
+{ Publishing: 'Бард',
+  Title: 'Властелинът на пръстените. Суперлуксозно издание',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/_/_/_.__3_22.jpg',
+  ISBN: '97895465' }
+{ Publishing: 'Бард',
+  Title: 'Лабиринтът - Кодът на болестта',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/_/-/_-__256.jpg',
+  ISBN: '9789546557469' }
+{ Publishing: 'Бард',
+  Title: 'Омнибус - Сънуват ли андроидите елекроовце?',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/_/-/_-__240.jpg',
+  ISBN: '9789546557421' }
+{ Publishing: 'Бард',
+  Title: 'Гаснещ зрак',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_1_25.png',
+  ISBN: '9789546557346' }
+{ Publishing: 'Бард',
+  Title: 'Ключът на лъжеца',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_48_97.jpg',
+  ISBN: '9789546557254' }
+{ Publishing: 'Бард',
+  Title: 'Гонитбата на шута - кн. 2',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/g/o/gonitbata_na_shuta_hrm_1.jpg',
+  ISBN: '9789546556806' }
+{ Publishing: 'Бард',
+  Title: 'Среднощен сокол, кн. 2 - Риганте',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/s/r/srednoshten_sokol_hrm.jpg',
+  ISBN: '9789546556745' }
+{ Publishing: 'Бард',
+  Title: 'Убиецът на Шута - кн.1',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_23_11.jpg',
+  ISBN: '9789546556684' }
+{ Publishing: 'Бард',
+  Title: 'Двете кули, кн. 2 - Властелинът на пръстените',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/d/v/dvete_kuli_hrm.jpg',
+  ISBN: '9789545841682' }
+{ Publishing: 'Бард',
+  Title: 'Задругата на пръстена, кн. 1 - Властелинът на пръстените',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/z/a/zadrugata_na_prastenite_hrm.jpg',
+  ISBN: '9789545841675' }
+{ Publishing: 'Бард',
+  Title: 'Меч в бурята, кн. 1 - Риганте',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/m/e/mech_v_burjata.jpg',
+  ISBN: '9789546556592' }
+{ Publishing: 'Бард',
+  Title: 'Лятно утро, лятна нощ',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/l/i/liatno_utro_hrm.jpg',
+  ISBN: '9789546556509' }
+{ Publishing: 'Бард',
+  Title: 'Плясъкът на крилете му, кн. 3 - Лявата ръка на Бога',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/p/l/pliasakat_na_krilete_mu_hrm.jpg',
+  ISBN: '9789546556431' }
+{ Publishing: 'Бард',
+  Title: 'Кръвна песен, кн. 1 - Сянката на гарвана',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/k/r/kravna_pesen_hrm.jpg',
+  ISBN: '9789546556325' }
+{ Publishing: 'Бард',
+  Title: 'Джак от Сенките',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/d/j/djak_ot_senkite_hrm_1.jpg',
+  ISBN: '9789546556233' }
+{ Publishing: 'Бард',
+  Title: 'Приказни песни',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/p/r/prikazni_pesni_hrm.jpg',
+  ISBN: '9789546556202' }
+{ Publishing: 'Бард',
+  Title: 'Внимание, психоспусък!',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/p/s/psihospusak_hrm_1.jpg',
+  ISBN: '9789546556042' }
+{ Publishing: 'Бард',
+  Title: 'Създания от светлина и мрак',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/s/u/suzdania_ot_svetlina_i_mrak_hrm.jpg',
+  ISBN: '9789546555991' }
+{ Publishing: 'Бард',
+  Title: 'Смъртта на светлината',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/s/m/smurtta_na_svetlinata.jpg',
+  ISBN: '9789546555809' }
+{ Publishing: 'Бард',
+  Title: 'Хиперион',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/h/i/hiperion.jpg',
+  ISBN: '9789545841651' }
+{ Publishing: 'Бард',
+  Title: 'Леденият дракон',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/i/c/ice_dragon.jpg',
+  ISBN: '9789546555663' }
+{ Publishing: 'Бард',
+  Title: 'Правдата на Торен',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/8/1877_pic_1.jpg',
+  ISBN: '9789546555489' }
+{ Publishing: 'Бард',
+  Title: 'Хрониките на гробарите кн. 1: Море на призраците',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_640_24.jpg',
+  ISBN: '9789546555366' }
+{ Publishing: 'Бард',
+  Title: 'Лабиринтът кн. 3: Последният кандидат',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/l/a/labirintat3-posledniat-kandidat.jpg',
+  ISBN: '9789546555274' }
+{ Publishing: 'Бард',
+  Title: 'Светлоносеца кн. 2: Заслепяващият нож',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_627_2.jpg',
+  ISBN: '9789546555175' }
+{ Publishing: 'Бард',
+  Title: 'Светът на мошениците',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_627_32.jpg',
+  ISBN: '9789546555229' }
+{ Publishing: 'Бард',
+  Title: 'Лабиринтът кн. 2: В обгорените земи',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_621_64.jpg',
+  ISBN: '9789546555076' }
+{ Publishing: 'Бард',
+  Title: 'Маджипурски хроники. Валънтайн Понтифекс',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/_/_/_.__49.jpg',
+  ISBN: '9789546555182' }
+{ Publishing: 'Бард',
+  Title: 'Войната на хаоса кн. 3: Краят на магьосника',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_623_61.jpg',
+  ISBN: '9789546555113' }
+{ Publishing: 'Бард',
+  Title: 'Роуз Мадър',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_617_116.jpg',
+  ISBN: '9789546554901' }
+{ Publishing: 'Бард',
+  Title: 'Светлоносеца кн. 1: Черната призма',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_613_98.jpg',
+  ISBN: '9789546554840' }
+{ Publishing: 'Бард',
+  Title: 'Марсианецът',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_612_20.jpg',
+  ISBN: '9789546554789' }
+{ Publishing: 'Бард',
+  Title: 'Замъкът на лорд Валънтайн',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_617_21.jpg',
+  ISBN: '9789546554871' }
+{ Publishing: 'Бард',
+  Title: 'Войната на хаоса кн. 2: Застрашена корона',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_609_175.jpg',
+  ISBN: '9789546554703' }
+{ Publishing: 'Бард',
+  Title: 'Трилогия за Карканас кн. 1: Ковачница на мрак',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_611_8.jpg',
+  ISBN: '9789546554741' }
+{ Publishing: 'Бард',
+  Title: 'Лабиринтът кн. 1: Невъзможно бягство',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_601_21.jpg',
+  ISBN: '9789546554628' }
+{ Publishing: 'Бард',
+  Title: 'Спиращият войната',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_604_29.jpg',
+  ISBN: '9789546554642' }
+{ Publishing: 'Бард',
+  Title: 'Войната на хаоса кн. 1: Кралство под обсада',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/_/_/_._1_.jpg',
+  ISBN: '9789546554574' }
+{ Publishing: 'Бард',
+  Title: 'Кралят на тръните, кн.2 - Разделената империя',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_593_18.jpg',
+  ISBN: '9789546554376' }
+{ Publishing: 'Бард',
+  Title: 'Реално и нереално',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_597_5.jpg',
+  ISBN: '9789546554444' }
+{ Publishing: 'Бард',
+  Title: 'Войната на демоните кн. 2: Пред вратите на мрака',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/p/r/pred-vratite-na-mraka.jpg',
+  ISBN: '9789546553904' }
+{ Publishing: 'Бард',
+  Title: 'Аз, вещицата кн.2: Нощна сянка',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/a/z/az-veshticata-22.jpg',
+  ISBN: '9789546553867' }
+{ Publishing: 'Бард',
+  Title: 'Войната на демоните кн.1: Връхлита страховит легион',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/v/r/vrahlita_strahovit_legion.jpg',
+  ISBN: '9789546553805' }
+{ Publishing: 'Бард',
+  Title: 'Три повести за Малазанската империя (Първите събрани истории за Бочълайн и Корбал Броуч)',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/3/-/3-povesti-za-malazana.jpg',
+  ISBN: '9789546553645' }
+{ Publishing: 'Бард',
+  Title: 'Псалмите на Исаак кн. 1: Ридание',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/r/i/ridanie.jpg',
+  ISBN: '9789546553577' }
+{ Publishing: 'Бард',
+  Title: 'Кинжалът и монетата кн. 2: Кралска кръв',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/k/r/kralska-krav.jpg',
+  ISBN: '9789546553522' }
+{ Publishing: 'Бард',
+  Title: 'Петата погибел, кн. 2 - Лявата ръка на Бога',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/p/e/petata-pogibel.jpg',
+  ISBN: '9789546553485' }
+{ Publishing: 'Бард',
+  Title: 'Кинжалът и монетата кн. 1: Пътят на дракона',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/p/a/patiat_na_drakona_bard.jpg',
+  ISBN: '9789546553454' }
+{ Publishing: 'Бард',
+  Title: 'Сделката на капитан Ворпатрил',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/s/d/sdelkata.jpg',
+  ISBN: '9789546553331' }
+{ Publishing: 'Бард',
+  Title: 'Хобит. Билбо Бегинс или дотам и обратно / С илюстрации от Алън Лий',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78069_1.jpeg',
+  ISBN: '9789545859021' }
+{ Publishing: 'Бард',
+  Title: 'Сага за Империята: Дъщеря на Империята - книга 2',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/_/2/_2_6_7.jpg',
+  ISBN: '9546553010' }
+{ Publishing: 'Бард',
+  Title: 'Поглед в мрака ',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_432_4.jpg',
+  ISBN: '9546552952' }
+{ Publishing: 'Бард',
+  Title: 'Сага за Империята:  Дъщеря на Империята - книга 1',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_377_4.jpg',
+  ISBN: '9546552884' }
+{ Publishing: 'Бард',
+  Title: 'Левиатан се пробужда ',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_348.jpg',
+  ISBN: '9546552846' }
+{ Publishing: 'Бард',
+  Title: 'Гарнизон Василиск ',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_98.jpg',
+  ISBN: '9546552709' }
+{ Publishing: 'Бард',
+  Title: 'Плашилото и Армията на крадците',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_83.jpg',
+  ISBN: '9546552679' }
+{ Publishing: 'Бард',
+  Title: 'Песен за огън и лед: Танц с дракони',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/t/a/tanc_s_drakoni_2_.jpg',
+  ISBN: '9789546552655' }
+{ Publishing: 'Бард',
+  Title: 'Торба с кости',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_96.jpg',
+  ISBN: '9546552693' }
+{ Publishing: 'Бард',
+  Title: 'Малазанска книга на мъртвите: Сакатият бог ',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/1/114658.jpeg',
+  ISBN: '9789546552495' }
+{ Publishing: 'Бард',
+  Title: 'Момчетата на Ананси',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/1/114296.jpeg',
+  ISBN: '9546552426' }
+{ Publishing: 'Бард',
+  Title: 'Роботите - том 1',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/1/113481.jpeg',
+  ISBN: '9546552228' }
+{ Publishing: 'Бард',
+  Title: 'Талисманът',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/1/112912.jpeg',
+  ISBN: '9789546552075' }
+{ Publishing: 'Бард',
+  Title: 'Аз, вещицата - кн. 1',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/a/z/az_veshticata_hrm_1_2.jpg',
+  ISBN: '9546552044' }
+{ Publishing: 'Бард',
+  Title: 'Кръвта на богомолката',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/1/112295.jpeg',
+  ISBN: '9546551948' }
+{ Publishing: 'Бард',
+  Title: 'Назад по линията',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/1/110060.jpeg',
+  ISBN: '9546551733' }
+{ Publishing: 'Бард',
+  Title: 'Лявата ръка на Бога, кн. 1',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/1/110073.jpeg',
+  ISBN: '9789546551740' }
+{ Publishing: 'Бард',
+  Title: 'Назад по линията/ Твърди корици',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/1/110059.jpeg',
+  ISBN: '9546551733' }
+{ Publishing: 'Бард',
+  Title: 'Разединени равнини',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/0/109603.jpeg',
+  ISBN: '9789546551665' }
+{ Publishing: 'Бард',
+  Title: 'Малазанска книга на мъртвите: Прах от мечти',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/0/109308.jpeg',
+  ISBN: '9789546551535' }
+{ Publishing: 'Бард',
+  Title: 'Мъглороден: Кладенецът на възнесението - книга 2',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/0/108903.jpeg',
+  ISBN: '9789546551467' }
+{ Publishing: 'Бард',
+  Title: 'Ендимион',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/0/108555.jpeg',
+  ISBN: '9789545841453' }
+{ Publishing: 'Бард',
+  Title: 'Хиперион',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/0/107530.jpeg',
+  ISBN: '9789545841446' }
+{ Publishing: 'Бард',
+  Title: 'Мъглороден - Последната империя - книга 1',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/0/106576.jpeg',
+  ISBN: '9789546551238' }
+{ Publishing: 'Бард',
+  Title: 'Криожега - твърди корици',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/0/106372.jpeg',
+  ISBN: '9789546551184-1' }
+{ Publishing: 'Бард',
+  Title: 'Рей Бредбъри/ избрано - том 2',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/b/r/bredbery_2_hrm_1.jpg',
+  ISBN: '9789546550965' }
+{ Publishing: 'Бард',
+  Title: 'Криожега',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/0/106321.jpeg',
+  ISBN: '9789546551184' }
+{ Publishing: 'Бард',
+  Title: 'Сянката на умрелите: Империя в черно и златно - книга 1',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/0/106231.jpeg',
+  ISBN: '9789546551177' }
+{ Publishing: 'Бард',
+  Title: '“Звезден риск” ООД - твърди корици',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/0/106016.jpeg',
+  ISBN: '9789546551108-1' }
+{ Publishing: 'Бард',
+  Title: 'Силмарилион',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/0/105694.jpeg',
+  ISBN: '9789545841422' }
+{ Publishing: 'Бард',
+  Title: 'Гневът на Лудия бог- Войната на Мрачния, книга 3',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/0/105678.jpeg',
+  ISBN: '9789546551023' }
+{ Publishing: 'Бард',
+  Title: '"Звезден риск" ООД',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/0/106003.jpeg',
+  ISBN: '9789546551108' }
+{ Publishing: 'Бард',
+  Title: 'Пясъчните крале - твърди корици',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/0/105454.jpeg',
+  ISBN: '9789546550972-1' }
+{ Publishing: 'Бард',
+  Title: 'Пясъчните крале',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/0/105415.jpeg',
+  ISBN: '9789546550972' }
+{ Publishing: 'Бард',
+  Title: 'Дългата разходка',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/d/y/dylgata_razhodka_hrm.jpg',
+  ISBN: '978954585649-1' }
+{ Publishing: 'Бард',
+  Title: 'Свещеният крал',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77802.jpeg',
+  ISBN: '9545856645' }
+{ Publishing: 'Бард',
+  Title: 'Кулата върху разлома. Втора книга от "Взор през Огледалото"',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78460.jpeg',
+  ISBN: '9545856459' }
+{ Publishing: 'Бард',
+  Title: 'Дом на вериги. Сказание четвърто',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78122.jpeg',
+  ISBN: '9545856386' }
+{ Publishing: 'Бард',
+  Title: 'Последният бастион',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77717.jpeg',
+  ISBN: '954585633X' }
+{ Publishing: 'Бард',
+  Title: 'Възвръщане',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78472.jpeg',
+  ISBN: '9545856300' }
+{ Publishing: 'Бард',
+  Title: 'Сянка по стъклото: 1-ва книга от "Взор през огледалото"',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78476.jpeg',
+  ISBN: '954585' }
+{ Publishing: 'Бард',
+  Title: 'Олимп / тв.к.',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77661.jpeg',
+  ISBN: '9545856149-1' }
+{ Publishing: 'Бард',
+  Title: 'Олимп',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78478.jpeg',
+  ISBN: '9545856149' }
+{ Publishing: 'Бард',
+  Title: 'Белгариад т.2 - Черната кула, Последната битка',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78479.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Кралят - воин',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78488.jpeg',
+  ISBN: '9545856181' }
+{ Publishing: 'Бард',
+  Title: 'Макатрицата',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78486.jpeg',
+  ISBN: '9545856157' }
+{ Publishing: 'Бард',
+  Title: 'Белгариад т.1 - Пророчеството, Кралица на магиите, Магьоснически гамбит',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77733.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Кралят-демон',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78497.jpeg',
+  ISBN: '9545856106' }
+{ Publishing: 'Бард',
+  Title: 'Окото на времето',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77730.jpeg',
+  ISBN: '9545855959' }
+{ Publishing: 'Бард',
+  Title: 'Буреносни хоризонти',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78505.jpeg',
+  ISBN: '954585605X' }
+{ Publishing: 'Бард',
+  Title: 'Окото на времето',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77699.jpeg',
+  ISBN: '9545855959' }
+{ Publishing: 'Бард',
+  Title: 'Кралят-маг',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78501.jpeg',
+  ISBN: '9545856009' }
+{ Publishing: 'Бард',
+  Title: 'Малазанска книга на мъртвите: Спомени от лед ',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78125.jpeg',
+  ISBN: '29373' }
+{ Publishing: 'Бард',
+  Title: 'ОРКИ: Кръвна вражда',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/0/105190.jpeg',
+  ISBN: '9546550910' }
+{ Publishing: 'Бард',
+  Title: 'Пътеводител на галактическия стопаджия: И още нещо...',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/placeholder/websites/3/ciela-no-img.png',
+  ISBN: '9789546550811' }
+{ Publishing: 'Бард',
+  Title: 'Първите мечове',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77876.jpeg',
+  ISBN: '9545855800' }
+{ Publishing: 'Бард',
+  Title: 'Хрониките на Амбър том I',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/4/141774z.jpg',
+  ISBN: '9789545859236' }
+{ Publishing: 'Бард',
+  Title: 'Хрониките на Амбър том II',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/h/r/hroniki_ambar_2_hrm.jpg',
+  ISBN: '9789545859243' }
+{ Publishing: 'Бард',
+  Title: 'Хрониките на Амбър том III',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/h/r/hroniki_ambar_3_hrm.jpg',
+  ISBN: ' 9789545859250' }
+{ Publishing: 'Бард',
+  Title: 'Кръвта на Амбър. Знакът на хаоса. Поредица Хрониките на Амбър, кн. 4',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/placeholder/websites/3/ciela-no-img.png',
+  ISBN: '9545855894' }
+{ Publishing: 'Бард',
+  Title: 'Рицар на сенките. Принц на хаоса. Поредица Хрониките на Амбър, кн. 5',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78166.jpeg',
+  ISBN: '9545855894' }
+{ Publishing: 'Бард',
+  Title: 'Флотът на прокълнатите. Стен - четвърто приключение/ тв.к.',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78516.jpeg',
+  ISBN: '954585582-7' }
+{ Publishing: 'Бард',
+  Title: 'Флотът на прокълнатите. Стен - четвърто приключение',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77620.jpeg',
+  ISBN: '9545855827' }
+{ Publishing: 'Бард',
+  Title: 'Сразени ангели',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77877.jpeg',
+  ISBN: '9545855754' }
+{ Publishing: 'Бард',
+  Title: 'Дюн - 2-ри том: Децата на Дюн. Бог-император на Дюн',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78520.jpeg',
+  ISBN: '978954585905-2' }
+{ Publishing: 'Бард',
+  Title: 'Малазанска книга на мъртвите: Дверите на скръбния дом ',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78126.jpeg',
+  ISBN: '9789548517034' }
+{ Publishing: 'Бард',
+  Title: 'Филидор, джуджето и архонта',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78525.jpeg',
+  ISBN: '954585572x' }
+{ Publishing: 'Бард',
+  Title: 'Илион /тв.к.',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77615.jpeg',
+  ISBN: '9545855657' }
+{ Publishing: 'Бард',
+  Title: 'Дюн - 1-ви том: Дюн. Месията на Дюн',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78041.jpeg',
+  ISBN: '27191' }
+{ Publishing: 'Бард',
+  Title: 'Илион',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78528.jpeg',
+  ISBN: '9789545855657' }
+{ Publishing: 'Бард',
+  Title: 'Спомен, Печал и Трън. Към кулата на зеления ангел - трета книга (втора част)',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77868.jpeg',
+  ISBN: '9545855665' }
+{ Publishing: 'Бард',
+  Title: 'Кехлибареният далекоглед. Тъмните му материи. Трета книга',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77919.jpeg',
+  ISBN: '9545855622' }
+{ Publishing: 'Бард',
+  Title: 'Рицарят на Шалион',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78281.jpeg',
+  ISBN: '9545855576' }
+{ Publishing: 'Бард',
+  Title: 'Зона 51.  Носферату',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78542.jpeg',
+  ISBN: '9545855444' }
+{ Publishing: 'Бард',
+  Title: 'Острият кинжал. Тъмните му материи. Втора книга',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78144.jpeg',
+  ISBN: '9545855428' }
+{ Publishing: 'Бард',
+  Title: 'Към кулата на зеления ангел. Спомен, Печал и Трън - трета книга ( І част )',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78538.jpeg',
+  ISBN: '9545855533' }
+{ Publishing: 'Бард',
+  Title: 'Наемниците на Дендарии',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78546.jpeg',
+  ISBN: '9545855347' }
+{ Publishing: 'Бард',
+  Title: 'Камъкът на раздялата. Спомен, Печал и Трън  - втора книга',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78544.jpeg',
+  ISBN: '9545855363' }
+{ Publishing: 'Бард',
+  Title: 'Наемниците на Дендарии',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78547.jpeg',
+  ISBN: '9545855347' }
+{ Publishing: 'Бард',
+  Title: 'Бил Галактическия герой на планетата на бутилираните мозъци',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77710.jpeg',
+  ISBN: '9545855169' }
+{ Publishing: 'Бард',
+  Title: 'Нова пролет. Прелюдия 1 към "Колелото на времето"',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78103.jpeg',
+  ISBN: '9545855320' }
+{ Publishing: 'Бард',
+  Title: 'Златния компас.Първа книга от трилогията "Тъмните му материи"',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78279.jpeg',
+  ISBN: '9545855304' }
+{ Publishing: 'Бард',
+  Title: 'Престолът от драконова кост. Спомен, Печал и Трън - първа книга',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77767.jpeg',
+  ISBN: '954585524X' }
+{ Publishing: 'Бард',
+  Title: 'Рома Етерна - твърди корици',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78058.jpeg',
+  ISBN: '9545855142' }
+{ Publishing: 'Бард',
+  Title: 'Рома Етерна - меки корици',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78023.jpeg',
+  ISBN: '954585514-2' }
+{ Publishing: 'Бард',
+  Title: 'Звездна вълна се надига',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77581.jpeg',
+  ISBN: '9544830763' }
+{ Publishing: 'Бард',
+  Title: 'Войната на Ъплифта',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77580.jpeg',
+  ISBN: '9544830761' }
+{ Publishing: 'Бард',
+  Title: '10-та по Рихтер',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77837.jpeg',
+  ISBN: '9544830762' }
+{ Publishing: 'Бард',
+  Title: 'Границите на безкрая',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77878.jpeg',
+  ISBN: '954585' }
+{ Publishing: 'Бард',
+  Title: 'Сетаганда',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77634.jpeg',
+  ISBN: '954585' }
+{ Publishing: 'Бард',
+  Title: '30 години фантастика DAW',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77716.jpeg',
+  ISBN: '954-585-515-0' }
+{ Publishing: 'Бард',
+  Title: 'Донърджак',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77737.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Войната на завоевателите',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77771.jpeg',
+  ISBN: '9545854871' }
+{ Publishing: 'Бард',
+  Title: 'Проклятието на Шалион',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78280.jpeg',
+  ISBN: '9545854855' }
+{ Publishing: 'Бард',
+  Title: 'Крондор: Измяната, Убийците, Сълзата на боговете',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78285.jpeg',
+  ISBN: '9545854820' }
+{ Publishing: 'Бард',
+  Title: 'Гневът на хидрогите',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78026.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Леговище от кости',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77560.jpeg',
+  ISBN: '9545854715' }
+{ Publishing: 'Бард',
+  Title: 'Вълшебството на Реклюс. Кулите на залеза. Сказание за острова на магиите',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78278.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Зона 51. Истината',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77640.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Суперкомандос',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77707.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Кръстопътища по здрач - Десета книга от "Колелото на времето"',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77608.jpeg',
+  ISBN: '9545854359' }
+{ Publishing: 'Бард',
+  Title: 'Фондация - том ІІ',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/o/fondacia_2_hrm.jpg',
+  ISBN: '9789545854415' }
+{ Publishing: 'Бард',
+  Title: 'Кръстопътища по здрач. Колелото на времето - книга 10',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/placeholder/websites/3/ciela-no-img.png',
+  ISBN: '954585435-9' }
+{ Publishing: 'Бард',
+  Title: 'Фондация - том І',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/o/fondacia_hrm.jpg',
+  ISBN: '9789545854316' }
+{ Publishing: 'Бард',
+  Title: 'Дипломатически имунитет',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77632.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Сьомгата на съмнението',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77754.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Одисея в космоса',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78102.jpeg',
+  ISBN: '9789545854162' }
+{ Publishing: 'Бард',
+  Title: 'Дебела антология на адски смешното фентъзи',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77664.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Скритата империя',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77643.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Родена магьосница. Повелителите на руни',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77437.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Вълчето братство. Повелителите на руни',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77443.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Даровете Всечовешки',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77842.jpeg',
+  ISBN: '9545854022' }
+{ Publishing: 'Бард',
+  Title: 'Войните на Амтрак. Част 3 - Майсторите на желязото',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77454.jpeg',
+  ISBN: '9789545853816' }
+{ Publishing: 'Бард',
+  Title: 'Килн хора',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77451.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Войните на Амтрак. Част 2 -  Първото семейство',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77747.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Зона 51 - Екскалибур',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77639.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Да избереш себе си',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77439.jpeg',
+  ISBN: '978954463258' }
+{ Publishing: 'Бард',
+  Title: 'Войните на Амтрак. Част 1 -  Облачният воин',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77358.jpeg',
+  ISBN: '978954123789' }
+{ Publishing: 'Бард',
+  Title: 'Господарят на светлината',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77676.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Дж.Р.Р.Толкин. Календар за 2003 година',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/placeholder/websites/3/ciela-no-img.png',
+  ISBN: '9545851905' }
+{ Publishing: 'Бард',
+  Title: 'Парчета скършена корона. Четвърта книга от',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78265.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Пътеводител на галактическия стопаджия',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77957.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Властелинът на Пръстените. Част 1, 2, 3. Комплект в твърда обложка',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77720.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Гневът на Демонския крал. Трета книга от',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78036.jpeg',
+  ISBN: '9545853506' }
+{ Publishing: 'Бард',
+  Title: 'Ангелиада',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77459.jpeg',
+  ISBN: '9789545853409' }
+{ Publishing: 'Бард',
+  Title: 'Възходът на търговеца принц. Втора книга от',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/placeholder/websites/3/ciela-no-img.png',
+  ISBN: '9789545853557' }
+{ Publishing: 'Бард',
+  Title: 'Властелинът на Пръстените. Част трета. Завръщането на краля',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77589.jpeg',
+  ISBN: '9545853484' }
+{ Publishing: 'Бард',
+  Title: 'Властелинът на Пръстените. Част първа. Задругата на Пръстена',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77587.jpeg',
+  ISBN: '9545853468' }
+{ Publishing: 'Бард',
+  Title: 'Властелинът на Пръстените. Част втора. Двете кули',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77588.jpeg',
+  ISBN: '9545853476' }
+{ Publishing: 'Бард',
+  Title: 'Властелинът на пръстените (луксозно издание)',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78284.jpeg',
+  ISBN: '9789545850663' }
+{ Publishing: 'Бард',
+  Title: 'Нещо зло се задава - твърди корици',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/0/104816.jpeg',
+  ISBN: '9546550804' }
+{ Publishing: 'Бард',
+  Title: 'Кралицата на мрака. Първа книга от',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77812.jpeg',
+  ISBN: '9545853239' }
+{ Publishing: 'Бард',
+  Title: 'В царството на Мрачния',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/0/104106.jpeg',
+  ISBN: '9789546550705' }
+{ Publishing: 'Бард',
+  Title: 'Хоризонти',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/0/103794.jpeg',
+  ISBN: '9546550590' }
+{ Publishing: 'Бард',
+  Title: 'Дарвиния',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/0/103467.jpeg',
+  ISBN: '9789546550569' }
+{ Publishing: 'Бард',
+  Title: 'Войната на студенокръвните - том 2:Гневът на демонския крал # Парчета скършена корона',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/0/103281.jpeg',
+  ISBN: '9789545853555' }
+{ Publishing: 'Бард',
+  Title: 'Войната на студенокръвните - том 1:Кралицата на мрака # Възходът на търговеца-принц',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/0/103280.jpeg',
+  ISBN: '9789545853449' }
+{ Publishing: 'Бард',
+  Title: 'Полетът на Нощните ястреби. Книга 1',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/0/103232.jpeg',
+  ISBN: '9789546550484' }
+{ Publishing: 'Бард',
+  Title: 'Царства на нощта',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/0/102499.jpeg',
+  ISBN: '9546550316' }
+{ Publishing: 'Бард',
+  Title: 'Шутът и убиецът, книга 3: Съдбата на Шута',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/0/101898.jpeg',
+  ISBN: '9789546550194' }
+{ Publishing: 'Бард',
+  Title: 'Пепел от светове - твърди корици',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/0/101796.jpeg',
+  ISBN: '954655018-7' }
+{ Publishing: 'Бард',
+  Title: 'Малазанска книга на мъртвите: Дан на хрътките ',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/0/101555.jpeg',
+  ISBN: '9789546550118' }
+{ Publishing: 'Бард',
+  Title: 'Пепел от светове',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/0/101795.jpeg',
+  ISBN: '9546550187' }
+{ Publishing: 'Бард',
+  Title: 'Лицето над водата - твърди корици',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/0/101110.jpeg',
+  ISBN: '954655004-0' }
+{ Publishing: 'Бард',
+  Title: 'Преобразяване - Споделящият нож - книга трета',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/0/101042.jpeg',
+  ISBN: '9789546550026' }
+{ Publishing: 'Бард',
+  Title: 'Лицето над водата',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/0/101109.jpeg',
+  ISBN: '9546550040' }
+{ Publishing: 'Бард',
+  Title: 'Тъмните му материи - пълно издание',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/0/100924.jpeg',
+  ISBN: '9789545859960' }
+{ Publishing: 'Бард',
+  Title: 'Лорд Златен',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78552.jpeg',
+  ISBN: '9545859939' }
+{ Publishing: 'Бард',
+  Title: 'Небесни материи',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78560.jpeg',
+  ISBN: '9545859922' }
+{ Publishing: 'Бард',
+  Title: 'Земно ядро',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78292.jpeg',
+  ISBN: '9545859885' }
+{ Publishing: 'Бард',
+  Title: 'Метален рояк - твърди корици',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78270.jpeg',
+  ISBN: '954585' }
+{ Publishing: 'Бард',
+  Title: 'Метален рояк',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78267.jpeg',
+  ISBN: '9789545859779' }
+{ Publishing: 'Бард',
+  Title: 'Стоманения плъх  том I',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78263.jpeg',
+  ISBN: '9789545859090' }
+{ Publishing: 'Бард',
+  Title: 'Сага за войната на разлома - втори том (Сребротрън/Мрак над Сетанон)',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78254.jpeg',
+  ISBN: '954585148-1' }
+{ Publishing: 'Бард',
+  Title: 'Битката за Ориса',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78243.jpeg',
+  ISBN: '9789545859656' }
+{ Publishing: 'Бард',
+  Title: 'Споделящият нож 2: Наследство',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78228.jpeg',
+  ISBN: '9789545859571' }
+{ Publishing: 'Бард',
+  Title: 'Силмарилион / Илюстровано издание',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78251.jpeg',
+  ISBN: '9789545859632' }
+{ Publishing: 'Бард',
+  Title: 'Детето на Нощта, книга 3',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78191.jpeg',
+  ISBN: '9789545859489' }
+{ Publishing: 'Бард',
+  Title: 'Планетата на приключенията - том втори - твърди корици',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78177.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Омайване - Споделящият нож - книга първа',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78302.jpeg',
+  ISBN: '9545859380' }
+{ Publishing: 'Бард',
+  Title: 'Планетата на приключенията - 1 - тв.к.',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78121.jpeg',
+  ISBN: '954585929-8' }
+{ Publishing: 'Бард',
+  Title: 'Планетата на приключенията - 1',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78120.jpeg',
+  ISBN: '9545859298' }
+{ Publishing: 'Бард',
+  Title: 'Вихърът на жътваря - Сказание седмо',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78130.jpeg',
+  ISBN: '9545859328' }
+{ Publishing: 'Бард',
+  Title: 'Завръщането на изгнаника / Поредица Конклав на сенки, кн. 3',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78091.jpeg',
+  ISBN: '9545859182' }
+{ Publishing: 'Бард',
+  Title: 'Дюн, том 2: Децата на Дюн. Бог - император на Дюн',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/d/y/dyun_2_hrm.jpg',
+  ISBN: '9789545859052' }
+{ Publishing: 'Бард',
+  Title: 'Дюн Т.3 / тв.к. - Еретиците на Дюн. Дюн: Домът на ордена',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78099.jpeg',
+  ISBN: '44590' }
+{ Publishing: 'Бард',
+  Title: 'Призрачните бригади',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77834.jpeg',
+  ISBN: '9789545859151' }
+{ Publishing: 'Бард',
+  Title: 'Дюн, том I: Дюн. Месията на Дюн',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/d/y/dyun_1_hrm.jpg',
+  ISBN: '9789545859045' }
+{ Publishing: 'Бард',
+  Title: 'Лисичи крал',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78118.jpeg',
+  ISBN: '9545858970' }
+{ Publishing: 'Бард',
+  Title: 'Нокът на Сребърния ястреб',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78027.jpeg',
+  ISBN: '9545858888' }
+{ Publishing: 'Бард',
+  Title: 'Стен - Вихър - твърди корици',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78021.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Стен - Вихър',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78022.jpeg',
+  ISBN: '9545858857' }
+{ Publishing: 'Бард',
+  Title: 'Лявата ръка на мрака, том I',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78093.jpeg',
+  ISBN: '9545857471' }
+{ Publishing: 'Бард',
+  Title: 'Хроники на Западния бряг: Сили',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78186.jpeg',
+  ISBN: '9545858673' }
+{ Publishing: 'Бард',
+  Title: 'Градът на нощната стража - твърди корици',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77883.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Чупливи неща',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77865.jpeg',
+  ISBN: '9789545858499' }
+{ Publishing: 'Бард',
+  Title: 'Време на огън и мрак',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77824.jpeg',
+  ISBN: '9545858475' }
+{ Publishing: 'Бард',
+  Title: 'Хроники на Западния бряг: Дарби. Гласове',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77844.jpeg',
+  ISBN: '9789545858482' }
+{ Publishing: 'Бард',
+  Title: 'Вариант 13',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77852.jpeg',
+  ISBN: '9545858376' }
+{ Publishing: 'Бард',
+  Title: 'Децата на Хурин',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/2/5/2523.max.jpg',
+  ISBN: '9545858314' }
+{ Publishing: 'Бард',
+  Title: 'Звезден прах',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77873.jpeg',
+  ISBN: '9789545858277' }
+{ Publishing: 'Бард',
+  Title: 'Хронолитите',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77832.jpeg',
+  ISBN: '9789545858123' }
+{ Publishing: 'Бард',
+  Title: 'Песента на Кали',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77907.jpeg',
+  ISBN: '9545858079' }
+{ Publishing: 'Бард',
+  Title: 'Мрак по пладне - Хроники на Гарваните - книга втора',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77898.jpeg',
+  ISBN: '9545858161' }
+{ Publishing: 'Бард',
+  Title: 'Ловци на кости (Сказание шесто)',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77974.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Краят на дъгата',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78321.jpeg',
+  ISBN: '9789545857690' }
+{ Publishing: 'Бард',
+  Title: 'Крадеца на зората - книга 1 от Хроники на гарваните',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78042.jpeg',
+  ISBN: '9789545857874' }
+{ Publishing: 'Бард',
+  Title: 'Разпръснати слънца',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78039.jpeg',
+  ISBN: '9789545857607' }
+{ Publishing: 'Бард',
+  Title: 'Очите на дракона',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77891.jpeg',
+  ISBN: '38160' }
+{ Publishing: 'Бард',
+  Title: 'Ускорение',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78342.jpeg',
+  ISBN: '9545857390' }
+{ Publishing: 'Бард',
+  Title: 'Стен: Завръщането на императора. Шесто приключение',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78348.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Легенди за войната на разлома',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78111.jpeg',
+  ISBN: '9545857293' }
+{ Publishing: 'Бард',
+  Title: 'Железният изгрев',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78403.jpeg',
+  ISBN: '9545857242' }
+{ Publishing: 'Бард',
+  Title: 'Нощният влак за Ригел Тв.к.',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78407.jpeg',
+  ISBN: '954585717X' }
+{ Publishing: 'Бард',
+  Title: 'Нощният влак за Ригел',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78408.jpeg',
+  ISBN: '954585717X' }
+{ Publishing: 'Бард',
+  Title: 'Сивите',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78414.jpeg',
+  ISBN: '954585712-9' }
+{ Publishing: 'Бард',
+  Title: 'Сивите',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78415.jpeg',
+  ISBN: '9545857129' }
+{ Publishing: 'Бард',
+  Title: 'Пътят между световете. Четвърта книга от "Взор през  огледалото"',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78418.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Пир за врани. Песен за огън и лед ',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/8/6/867_pic_1.jpg',
+  ISBN: '9789545859649' }
+{ Publishing: 'Бард',
+  Title: 'Пясъчните войни. Книга 1',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78427.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Пясъчните войни. Книга 1',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78426.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Малазанска книга на мъртвите: Среднощни приливи ',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78123.jpeg',
+  ISBN: '36090' }
+{ Publishing: 'Бард',
+  Title: 'Разбудени фурии',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78435.jpeg',
+  ISBN: '954585670-х' }
+{ Publishing: 'Бард',
+  Title: 'Разбудени фурии',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78436.jpeg',
+  ISBN: '954585670х' }
+{ Publishing: 'Бард',
+  Title: 'Нож от блянове - книга единадесета от "Колелото на времето"',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78010.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Сингуларно небе',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78443.jpeg',
+  ISBN: '954585684X' }
+{ Publishing: 'Бард',
+  Title: 'Тъмна е луната: книга 3 от "Взор през огледалото"',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78444.jpeg',
+  ISBN: '9545856769' }
+{ Publishing: 'Бард',
+  Title: 'Изкуплението на Алтал',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77797.jpeg',
+  ISBN: '9545853166' }
+{ Publishing: 'Бард',
+  Title: 'Траксас. Книга първа',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77405.jpeg',
+  ISBN: '954585318-2' }
+{ Publishing: 'Бард',
+  Title: 'Цивилна кампания',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77613.jpeg',
+  ISBN: '954585314Х' }
+{ Publishing: 'Бард',
+  Title: 'Песен за огън и лед: Вихър от мечове ',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/8/7/876_pic_1.jpg',
+  ISBN: '9789545853104' }
+{ Publishing: 'Бард',
+  Title: 'Стен',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78062.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Песен за огън и лед: Сблъсък на крале ',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/s/b/sblasak_na_krale_hrm_1.jpg',
+  ISBN: '9789545852992' }
+{ Publishing: 'Бард',
+  Title: 'Зона 51. Граалът',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78195.jpeg',
+  ISBN: '9545852968' }
+{ Publishing: 'Бард',
+  Title: 'Пълни приложения към Властелинът на пръстените - Средната земя',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77402.jpeg',
+  ISBN: '9545852704' }
+{ Publishing: 'Бард',
+  Title: 'Сянката на инквизитора',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77510.jpeg',
+  ISBN: '9545852690' }
+{ Publishing: 'Бард',
+  Title: 'Недовършени предания',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_636_4.jpg',
+  ISBN: '9789546555236' }
+{ Publishing: 'Бард',
+  Title: 'Песен за огън и лед: Игра на тронове',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/i/g/igra_na_tronove_new.jpg',
+  ISBN: '9789545852930' }
+{ Publishing: 'Бард',
+  Title: 'Придворният убиец. Книга трета - Тронът',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77647.jpeg',
+  ISBN: '9545852763' }
+{ Publishing: 'Бард',
+  Title: 'Гонитба за Икар',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77373.jpeg',
+  ISBN: '9545852488' }
+{ Publishing: 'Бард',
+  Title: 'Камъните на силата - Вълк в сянка. Последният пазител - Книга втора',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77813.jpeg',
+  ISBN: '9545852518' }
+{ Publishing: 'Бард',
+  Title: 'Придворният убиец. Книга първа - Тайните на занаята',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77804.jpeg',
+  ISBN: '9545852313' }
+{ Publishing: 'Бард',
+  Title: 'Спусъкът',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77438.jpeg',
+  ISBN: '9545852240' }
+{ Publishing: 'Бард',
+  Title: 'Спусъкът',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77582.jpeg',
+  ISBN: '954585224-0' }
+{ Publishing: 'Бард',
+  Title: 'КАМЪНИТЕ НА СИЛАТА. Призрачният крал. Последният меч на силата',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/placeholder/websites/3/ciela-no-img.png',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Планетата в края на времето',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77505.jpeg',
+  ISBN: '9545852143' }
+{ Publishing: 'Бард',
+  Title: 'Силата на сянката -  Четвърта книга от',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78082.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Небесният огън - Пета книга от',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78259.jpeg',
+  ISBN: '9545850051' }
+{ Publishing: 'Бард',
+  Title: 'Окото на света - Първа книга от "Колелото на времето"',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77658.jpeg',
+  ISBN: '9789545852169' }
+{ Publishing: 'Бард',
+  Title: 'ХОБИТ',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78004.jpeg',
+  ISBN: '9545850167' }
+{ Publishing: 'Бард',
+  Title: 'Пророчицата от Кел. Епос III Малореон',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77756.jpeg',
+  ISBN: '9545851996' }
+{ Publishing: 'Бард',
+  Title: 'Господарят демон на Каранда. Магьосницата от Даршива',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77798.jpeg',
+  ISBN: '9545851831' }
+{ Publishing: 'Бард',
+  Title: 'Потапяне в Слънцето',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77779.jpeg',
+  ISBN: '9545851988' }
+{ Publishing: 'Бард',
+  Title: 'Демонът на Максуел',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77465.jpeg',
+  ISBN: '9545851791' }
+{ Publishing: 'Бард',
+  Title: 'Алеята на прокълнатите',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77623.jpeg',
+  ISBN: '9545851805' }
+{ Publishing: 'Бард',
+  Title: 'Сърцето на зимата - Девета книга от "Колелото на времето"',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77663.jpeg',
+  ISBN: '9545851910' }
+{ Publishing: 'Бард',
+  Title: 'Хиперион',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77669.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Светлината на другия ден',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77796.jpeg',
+  ISBN: '9545851511' }
+{ Publishing: 'Бард',
+  Title: 'Ендимион',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77670.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Комар',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77776.jpeg',
+  ISBN: '9545851767' }
+{ Publishing: 'Бард',
+  Title: 'Пазителите на запада; Кралят на мургите',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77706.jpeg',
+  ISBN: '9545851635' }
+{ Publishing: 'Бард',
+  Title: 'Триумфът на Ендимион',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77672.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Падането на хиперион',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77660.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Дяволски свят',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77497.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Вечност',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77496.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Принц на Кръвта. Кралският корсар',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78112.jpeg',
+  ISBN: '9545851546' }
+{ Publishing: 'Бард',
+  Title: 'Братя по оръжие',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77879.jpeg',
+  ISBN: '9545850744' }
+{ Publishing: 'Бард',
+  Title: 'Зона 51 - Сфинксът',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77638.jpeg',
+  ISBN: '954585085Х' }
+{ Publishing: 'Бард',
+  Title: 'Сливане',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77766.jpeg',
+  ISBN: '954585135X' }
+{ Publishing: 'Бард',
+  Title: 'Превъзходство',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77823.jpeg',
+  ISBN: '954585118X' }
+{ Publishing: 'Бард',
+  Title: 'Императорската гвардия',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77586.jpeg',
+  ISBN: '9789545851317' }
+{ Publishing: 'Бард',
+  Title: 'Магистрала на вечността',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77493.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Господарят демон',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77753.jpeg',
+  ISBN: '954585104X' }
+{ Publishing: 'Бард',
+  Title: 'Библията на Лилит. Голямата стъпка',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77516.jpeg',
+  ISBN: '9545850043' }
+{ Publishing: 'Бард',
+  Title: 'Сага за войната на разлома - втори том',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78113.jpeg',
+  ISBN: '954-585-148-1' }
+{ Publishing: 'Бард',
+  Title: 'Конан Скитника',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77680.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Гейтуей 3',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77627.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Наследството на завоевателите',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77433.jpeg',
+  ISBN: '9545851163' }
+{ Publishing: 'Бард',
+  Title: 'Гордостта на завоевателите',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77604.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Сага за войната на разлома - първи том',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78114.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Сайтин',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78059.jpeg',
+  ISBN: '9545851228' }
+{ Publishing: 'Бард',
+  Title: 'Сайтин',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78060.jpeg',
+  ISBN: '954585122-8' }
+{ Publishing: 'Бард',
+  Title: 'За честта на Вор',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77574.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Легенди',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77374.jpeg',
+  ISBN: '9545851112' }
+{ Publishing: 'Бард',
+  Title: 'Артемида',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/a/r/artemida-andi-wear-bard-9789546558251.jpg',
+  ISBN: '9789546558251' }
+{ Publishing: 'Бард',
+  Title: 'Малката лодка - Кн.1 от Книга на Праха',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/m/a/malkata-lodka-kniga-na-praha-bard-philip-pullman-9789546558206.jpg',
+  ISBN: '9789546558206' }
+{ Publishing: 'Бард',
+  Title: 'Властелинът на пръстените - Суперлуксозно издание',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/v/l/vlastelinat_na_prastenite_.jpg',
+  ISBN: '2010010947' }
+{ Publishing: 'Бард',
+  Title: 'Спящите красавици - твърди корици',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/s/p/spjashtite-krasavici-stephen-king-owen-king-bard-9789546558237_1.jpg',
+  ISBN: '9789546558237-1' }
+{ Publishing: 'Бард',
+  Title: 'Война на световете - Изтреблението',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/_/-/_-_-_-9789546558114-_-ciela.jpg',
+  ISBN: '9789546558114' }
+{ Publishing: 'Бард',
+  Title: 'Да опожаряваш е наслада',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_15_2.png',
+  ISBN: '9789546557865' }
+{ Publishing: 'Бард',
+  Title: 'Резерватът на таласъмите',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/r/e/rezervatyt-na-talysymite-cover.jpg',
+  ISBN: '9789546556912' }
+{ Publishing: 'Бард',
+  Title: 'Задръж звездите още миг',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/z/a/zadryj_zvezdite_oshte_mig_cover.jpg',
+  ISBN: '9789546557545' }
+{ Publishing: 'Бард',
+  Title: 'Джентълмен Джоул и Червената кралица',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_28_3.jpg',
+  ISBN: '9789546556813' }
+{ Publishing: 'Бард',
+  Title: 'Донеси ми главата на принца - Ако с Фауст не успееш - Просто шеметен фарс',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/z/e/zelazni_shekli_hrm.jpg',
+  ISBN: '9789546556615' }
+{ Publishing: 'Бард',
+  Title: 'Владетелят на кулата, кн.2 - Сянката на гарвана',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/v/l/vladeteljat_na_kulata_3__1.jpg',
+  ISBN: '9789546556554-1' }
+{ Publishing: 'Бард',
+  Title: 'Планината на троловете',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/t/r/trol.jpg',
+  ISBN: '9789546556387' }
+{ Publishing: 'Бард',
+  Title: 'Град на стълби',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/g/r/grad_na_stalbi_hrm.jpg',
+  ISBN: '9789546556073' }
+{ Publishing: 'Бард',
+  Title: 'Градът на гладните - кн. 2, Домът на мис Перигрин за чудати деца',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/g/r/gradat_na_gladnite_hrm_1.jpg',
+  ISBN: '9789546555939' }
+{ Publishing: 'Бард',
+  Title: 'Милостта на Калр',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/m/i/milostta_na_kalr.jpg',
+  ISBN: '9789546555953' }
+{ Publishing: 'Бард',
+  Title: 'Кралицата на Тиърлинг',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/k/r/kralicata_na_tiurling.jpg',
+  ISBN: '9789546555885' }
+{ Publishing: 'Бард',
+  Title: 'Ендимион (твърда корица)',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/e/n/endimion_hrm.jpg',
+  ISBN: '9789545841668' }
+{ Publishing: 'Бард',
+  Title: 'Окончателна директива',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/o/k/okonchatelna_direktiva.jpg',
+  ISBN: '9789546555816' }
+{ Publishing: 'Бард',
+  Title: 'Хрониките на гробарите, кн. 2 - Изкуството на лова ',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/i/z/izkustvoto_na_lova_hrm.jpg',
+  ISBN: '9789546555731' }
+{ Publishing: 'Бард',
+  Title: 'Светлоносеца кн. 3: Разбитото око',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/9/191550_b.jpg',
+  ISBN: '9789546555632' }
+{ Publishing: 'Бард',
+  Title: 'Свръхестественото',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/s/w/swryhestestwenoto.jpg',
+  ISBN: '9789546555328' }
+{ Publishing: 'Бард',
+  Title: 'Свещеният танц',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_640.jpg',
+  ISBN: '9789546555335' }
+{ Publishing: 'Бард',
+  Title: 'Императорът на тръните, кн.3 - Разделената империя',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_618_27.jpg',
+  ISBN: '9789546554987' }
+{ Publishing: 'Бард',
+  Title: 'Домът на мис Перигрин за чудати деца',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_613_109.jpg',
+  ISBN: '9789546554727' }
+{ Publishing: 'Бард',
+  Title: 'За честта на крадеца',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_598_100.jpg',
+  ISBN: '9789546554505' }
+{ Publishing: 'Бард',
+  Title: 'Купата на небесата',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_598_31.jpg',
+  ISBN: '9789546554536' }
+{ Publishing: 'Бард',
+  Title: 'Пътеводител на галактическия стопаджия, твърда корица',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_596_48.jpg',
+  ISBN: '9789545853360' }
+{ Publishing: 'Бард',
+  Title: 'Изтъкан свят кн.1: Везба',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_590_4.jpg',
+  ISBN: '9789546554345' }
+{ Publishing: 'Бард',
+  Title: 'За честта на кралицата',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_582_119_1.jpg',
+  ISBN: '9789546554208' }
+{ Publishing: 'Бард',
+  Title: 'Хрониките на Томас Ковенант Неверника  кн. 1: Прокобата на Господаря Гад',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/p/r/prokobata-na-gospodaria-gad.jpg',
+  ISBN: '9789546554123' }
+{ Publishing: 'Бард',
+  Title: 'Войната на Калибан',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_580_11.jpg',
+  ISBN: '9789546554086' }
+{ Publishing: 'Бард',
+  Title: 'Псалмите на Исаак кн.2: Песнопение',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/p/e/pesnopenie.jpeg',
+  ISBN: '9789546553737' }
+{ Publishing: 'Бард',
+  Title: 'Небесна сянка',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/n/e/nebesna-sianka.jpg',
+  ISBN: '9789546553713' }
+{ Publishing: 'Бард',
+  Title: 'Книгата на Хаде',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/k/n/knigata-na-hade.jpg',
+  ISBN: '9789546553607' }
+{ Publishing: 'Бард',
+  Title: 'Вяра',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/v/i/viara.jpg',
+  ISBN: '9789546553553' }
+{ Publishing: 'Бард',
+  Title: 'Битие',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/b/i/bitie.jpg',
+  ISBN: '9789546553492' }
+{ Publishing: 'Бард',
+  Title: 'Стен: Краят на империята - Осмо приключение',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/s/t/sten_kraiat_na_imperiata.jpg',
+  ISBN: '9789546553416' }
+{ Publishing: 'Бард',
+  Title: 'Сага за империята: Господарка на империята - книга 3',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/r/e/reimand-fist30001.jpg',
+  ISBN: '9789546553249' }
+{ Publishing: 'Бард',
+  Title: 'Фенрир ',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_567_2.jpg',
+  ISBN: '9546553164' }
+{ Publishing: 'Бард',
+  Title: 'Нашествие',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/n/a/nashestvie.jpg',
+  ISBN: '9546553140' }
+{ Publishing: 'Бард',
+  Title: 'Крадците на мрака',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/k/r/kradcite_na_mraka.jpg',
+  ISBN: '9546553157' }
+{ Publishing: 'Бард',
+  Title: 'В дворците на Слънцето',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/s/l/slynce.jpg',
+  ISBN: '9546553126' }
+{ Publishing: 'Бард',
+  Title: 'Роботите - втори том',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/_/2/_2_5.jpg',
+  ISBN: '9546552808' }
+{ Publishing: 'Бард',
+  Title: 'Капан за Върколаци',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_237.jpg',
+  ISBN: '9546552778' }
+{ Publishing: 'Бард',
+  Title: 'Среднощни кули',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/1/113301.jpeg',
+  ISBN: '9546552181' }
+{ Publishing: 'Бард',
+  Title: 'Убиец на свободна практика - том 4',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/1/112509.jpeg',
+  ISBN: '9546552013' }
+{ Publishing: 'Бард',
+  Title: 'Мъглороден: Героят на времето - 3 част',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/1/110473.jpeg',
+  ISBN: '9546551863' }
+{ Publishing: 'Бард',
+  Title: 'Рама - том 2',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/1/110397.jpeg',
+  ISBN: '9546551832' }
+{ Publishing: 'Бард',
+  Title: 'Буря се надига - твърди корици/книга 12',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/0/105943.jpeg',
+  ISBN: '9789546551085-1' }
+{ Publishing: 'Бард',
+  Title: ' Хобит: Билбо Бегинс или до там и обратно',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/2/4/245_pic_1.jpg',
+  ISBN: '9789545841415' }
+{ Publishing: 'Бард',
+  Title: 'Слънчева буря',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78455.jpeg',
+  ISBN: '9545856629' }
+{ Publishing: 'Бард',
+  Title: 'Отмъщението на прокълнатите. Стен - пето приключение',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78459.jpeg',
+  ISBN: '9545856467' }
+{ Publishing: 'Бард',
+  Title: 'Последният бастион',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77696.jpeg',
+  ISBN: '954585633X-1' }
+{ Publishing: 'Бард',
+  Title: 'Възвръщане',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78471.jpeg',
+  ISBN: '9545856300-1' }
+{ Publishing: 'Бард',
+  Title: 'Макатрицата',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78485.jpeg',
+  ISBN: '9545856157' }
+{ Publishing: 'Бард',
+  Title: 'Буреносни хоризонти/ тв.к.',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78504.jpeg',
+  ISBN: '954585605X' }
+{ Publishing: 'Бард',
+  Title: 'Зона 51 #9. Легендата',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78503.jpeg',
+  ISBN: '9545856025' }
+{ Publishing: 'Бард',
+  Title: 'Дракула - Немъртвият',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/0/105132.jpeg',
+  ISBN: '9546550880' }
+{ Publishing: 'Бард',
+  Title: 'Дюн, том 3: Еретиците на Дюн. Дюн: Домът на ордена',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/d/y/dyun_3_hrm.jpg',
+  ISBN: '9789545859069' }
+{ Publishing: 'Бард',
+  Title: 'Сразени ангели / тв.к.',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78061.jpeg',
+  ISBN: '9545855754' }
+{ Publishing: 'Бард',
+  Title: 'Филидор, джуджето и архонта / тв.к.',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78523.jpeg',
+  ISBN: '95458557-2' }
+{ Publishing: 'Бард',
+  Title: 'Да надбягаш съдбата - том 1-ви от',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78532.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Бог на гнева',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78541.jpeg',
+  ISBN: '9545855401' }
+{ Publishing: 'Бард',
+  Title: 'Летяща чиния',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77785.jpeg',
+  ISBN: '9545855371' }
+{ Publishing: 'Бард',
+  Title: 'Бил Галактическия герой на планетата',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77697.jpeg',
+  ISBN: '9545855274' }
+{ Publishing: 'Бард',
+  Title: 'Хрониките на Земята-Изгубените царства - книга 4',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/i/z/izgubenite_carstva_hrm_2.jpg',
+  ISBN: '9789545855045' }
+{ Publishing: 'Бард',
+  Title: 'Един смахнат свят. Комично фентъзи',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77569.jpeg',
+  ISBN: '9545854987' }
+{ Publishing: 'Бард',
+  Title: 'Сказание за острова на магиите. Смъртта на хаоса. Падането на ангелите - том 3',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77565.jpeg',
+  ISBN: '9545854944' }
+{ Publishing: 'Бард',
+  Title: 'Творецът на магията. Войната на реда. Сказание за Острова на магиите.Toм втори',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77415.jpeg',
+  ISBN: '9545854677' }
+{ Publishing: 'Бард',
+  Title: 'Паравреме',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77413.jpeg',
+  ISBN: '9545854626' }
+{ Publishing: 'Бард',
+  Title: 'Радиото на Дарвин',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77442.jpeg',
+  ISBN: '9789545854081' }
+{ Publishing: 'Бард',
+  Title: 'Землемория',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78175.jpeg',
+  ISBN: '16406' }
+{ Publishing: 'Бард',
+  Title: 'Войните на Амтрак. Част 4 - Кървавата река',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77423.jpeg',
+  ISBN: '9545853948' }
+{ Publishing: 'Бард',
+  Title: 'Планетата на ветровете',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77453.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Последната тайна на земята',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78189.jpeg',
+  ISBN: '9789545853654' }
+{ Publishing: 'Бард',
+  Title: 'Мечът на ликтора',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77507.jpeg',
+  ISBN: '954585362' }
+{ Publishing: 'Бард',
+  Title: 'Лара Крофт. Похитител на гробници',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77773.jpeg',
+  ISBN: '9545853514' }
+{ Publishing: 'Бард',
+  Title: 'Инспектор Спектор и планетата Нета',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77698.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Вълчи светове. Стен 2',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77666.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Проломът',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/0/104576.jpeg',
+  ISBN: '9789546550743' }
+{ Publishing: 'Бард',
+  Title: 'Последната теорема - твърди корици',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/0/104199.jpeg',
+  ISBN: '9546550675' }
+{ Publishing: 'Бард',
+  Title: 'Последната теорема',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/0/104104.jpeg',
+  ISBN: '9789546550675' }
+{ Publishing: 'Бард',
+  Title: 'Бягащият ловец - тв. корици',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/0/103326.jpeg',
+  ISBN: '9789546550460' }
+{ Publishing: 'Бард',
+  Title: 'Лъвовете на Ал-Расан',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/0/103519.jpeg',
+  ISBN: '9545853395' }
+{ Publishing: 'Бард',
+  Title: 'Дарвиния - твърди корици',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/0/103468.jpeg',
+  ISBN: '9789546550569' }
+{ Publishing: 'Бард',
+  Title: 'Бягащият ловец',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/1/0/103240.jpeg',
+  ISBN: '9789546550460' }
+{ Publishing: 'Бард',
+  Title: 'Небесни материи - твърди корици',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78561.jpeg',
+  ISBN: '978954585' }
+{ Publishing: 'Бард',
+  Title: 'Земно ядро - твърди корици',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78290.jpeg',
+  ISBN: '954585988-5' }
+{ Publishing: 'Бард',
+  Title: 'Децата на лампата: Приключението "Ехнатон", книга 1',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78266.jpeg',
+  ISBN: '9789545859762' }
+{ Publishing: 'Бард',
+  Title: 'Призрачни истории',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/placeholder/websites/3/ciela-no-img.png',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Камуфлаж',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78224.jpeg',
+  ISBN: '9789545859557' }
+{ Publishing: 'Бард',
+  Title: '2012: Война за душите',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78550.jpeg',
+  ISBN: '9789545859519' }
+{ Publishing: 'Бард',
+  Title: 'Планетата на приключенията - том втори',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78178.jpeg',
+  ISBN: '9545859434' }
+{ Publishing: 'Бард',
+  Title: 'Чиракът на магьосника; Майстор магьосник',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78253.jpeg',
+  ISBN: '9545851384' }
+{ Publishing: 'Бард',
+  Title: 'Пътеводител в магическия свят на "Хрониките на Нарния" от К. С. Луис',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77838.jpeg',
+  ISBN: '9789545859168' }
+{ Publishing: 'Бард',
+  Title: 'Телепорт',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77940.jpeg',
+  ISBN: '9545858826' }
+{ Publishing: 'Бард',
+  Title: 'Градът на нощната стража',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77884.jpeg',
+  ISBN: '9545858697' }
+{ Publishing: 'Бард',
+  Title: 'Бог на императори',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77845.jpeg',
+  ISBN: '9545858437' }
+{ Publishing: 'Бард',
+  Title: 'Загадката на Марголия',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78065.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Облакът',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78025.jpeg',
+  ISBN: '9789545857898' }
+{ Publishing: 'Бард',
+  Title: 'Лявата ръка на мрака - том 2',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78325.jpeg',
+  ISBN: '9789545857645' }
+{ Publishing: 'Бард',
+  Title: 'Ефектът на близнака',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78326.jpeg',
+  ISBN: '9789545857652' }
+{ Publishing: 'Бард',
+  Title: 'Пясъчните войни - книга 2',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78335.jpeg',
+  ISBN: '9545857498' }
+{ Publishing: 'Бард',
+  Title: 'Земетръс',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78399.jpeg',
+  ISBN: '9545857285' }
+{ Publishing: 'Бард',
+  Title: 'Световна буря',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78404.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Железният изгрев Тв.к.',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/8/78402.jpeg',
+  ISBN: '954585724-2' }
+{ Publishing: 'Бард',
+  Title: 'Денят на змията',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/8/8/88342.jpeg',
+  ISBN: '954585264Х' }
+{ Publishing: 'Бард',
+  Title: 'Карта на Толкиновата средна земя',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/f/i/file_609_173.jpg',
+  ISBN: '9780061055065' }
+{ Publishing: 'Бард',
+  Title: 'Многоръкият бог на Далайна',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77503.jpeg',
+  ISBN: '9545852038' }
+{ Publishing: 'Бард',
+  Title: 'Отклонение. Книга втора от Наследената Вселена',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77822.jpeg',
+  ISBN: '9545851074' }
+{ Publishing: 'Бард',
+  Title: 'Открадни си свят',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77492.jpeg',
+  ISBN: '9545851333' }
+{ Publishing: 'Бард',
+  Title: 'Конан от Аквилония',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77681.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Терминален експеримент',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77489.jpeg',
+  ISBN: '1' }
+{ Publishing: 'Бард',
+  Title: 'Крадецът и магьосникът',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77763.jpeg',
+  ISBN: '9545851287' }
+{ Publishing: 'Бард',
+  Title: 'Падналите богове',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77778.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Конан Завоевателя',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/7/7/77679.jpeg',
+  ISBN: '' }
+{ Publishing: 'Бард',
+  Title: 'Властелинът на пръстените: Пълно издание, тв. корица',
+  Image: 'https://ciela.com/media/catalog/product/cache/3/image/204x304/9df78eab33525d08d6e5fb8d27136e95/v/l/vlastelin.jpg',
+  ISBN: '9789545850660' }

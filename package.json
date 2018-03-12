@@ -10,7 +10,8 @@
     "sort" : "node ./command/sort-authors.js > sorther-authors.txt",
     "update": "node ./command/update-database.js",
     "filter-by-title": "node ./command/filter-by-title.js > filter-by-title.txt",
-    "filter-by-author": "node ./command/filter-by-author.js > filter-by-author.txt"
+    "filter-by-author": "node ./command/filter-by-author.js > filter-by-author.txt",
+    "filter-by-publishing": "node ./command/filter-by-publishing.js > filter-by-publishing.txt"
   },
   "repository": {
     "type": "git",
