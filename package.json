@@ -28,7 +28,7 @@
     "babel-eslint": "^8.2.2",
     "eslint": "^4.18.1",
     "jquery": "^3.3.1",
-    "jsdom": "^11.6.2",
+    "jsdom": "^16.5.0",
     "mysql2": "^1.5.2",
     "sequelize": "^4.35.2",
     "sequelize-auto-migrations": "^1.0.2",
